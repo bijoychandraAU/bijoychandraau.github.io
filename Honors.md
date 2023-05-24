@@ -1,4 +1,4 @@
-Sl.No | Honor & Awards | Year
+Sl.No | Honor & Awards| Year
 --- | --- | --- 
 
 1 | Outstanding Research Paper Award, The Southeastern Universities Graduate Research Symposium | 2023
