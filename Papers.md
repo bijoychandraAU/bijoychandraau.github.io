@@ -1,4 +1,4 @@
-## Peer Reviewed:
+
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. Sustainable Cities and Society](https://dx.doi.org/10.2139/ssrn.4423582). (Under review) 
 
 2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (in press)
