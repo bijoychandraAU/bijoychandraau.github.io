@@ -16,6 +16,6 @@ Sl.No | Honor & Awards| Year
 
 University/Institute | Degree| Year
 --- | --- | --- 
-Auburn University | Ph.D ( Biosystem Engineering & Statistics minor ) | 2019-2023
+1 | Outstanding Research Paper Award, The Southeastern Universities Graduate Research Symposium| 2019-2023
 Indian Institute of Technology, Roorkee | M.Tech (Hydrology) | 2014-16 
 Central Agricultural University, Imphal, India | B.Tech (Agril.Engineering) | 2010-2014 
