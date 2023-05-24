@@ -25,8 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
-  - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
+  - {title: "Github g", icon: github, url: "https://github.com/bijoychandraAU"}
+  - {title: Linkedin gh, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
   - {title: Google, icon: google-scholar, url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
 
 comments:
