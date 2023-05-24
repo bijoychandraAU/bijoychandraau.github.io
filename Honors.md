@@ -1,7 +1,3 @@
----
-layout: page
-title: "Honor & Awards"
----
 
 Honor & Awards | Year
 --- | --- 
@@ -29,3 +25,10 @@ Honor & Awards | Year
 	Selected combined annual training camp for National Cadet Corps, India                               2007
 	National Cadet Corps-A certificate                                                                                           2007
 	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India               2003-10
+
+
+University/Institute | Degree| Year
+--- | --- | --- 
+Auburn University | Ph.D ( Biosystem Engineering & Statistics minor ) | 2019-2023
+Indian Institute of Technology, Roorkee | M.Tech (Hydrology) | 2014-16 
+Central Agricultural University, Imphal, India | B.Tech (Agril.Engineering) | 2010-2014 
