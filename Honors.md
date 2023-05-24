@@ -4,6 +4,7 @@ layout: post
 ---
 
 |**Sl.No**| **Honor & Awards**                                                                          | **Year**|
+|---------|---------------------------------------------------------------------------------------------|---------|
 | 1       | Outstanding Research Paper Award, The Southeastern Universities Graduate Research Symposium | 2023    |
 | 2       |     Auburn University’s Outstanding Doctoral Student Award                                  | 2023    |
 | 3       | Member Alpha Epsilon honorary society	                                                      | 2023    |
