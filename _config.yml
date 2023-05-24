@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: "About Me"}
   - {file: "Papers.md", title: "Publications"}
+  - {file: "Honors.md", title: "Honors & Awards"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
