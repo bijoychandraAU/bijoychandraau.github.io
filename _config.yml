@@ -17,14 +17,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Bijoychandra_CV.pdf", title: Vitae}
+  - {file: "Bijoychandra_CV.pdf", title: Vitae}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: "About Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: Linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
