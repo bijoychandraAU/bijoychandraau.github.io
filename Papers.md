@@ -1,6 +1,6 @@
 
 ## Peer Reviewed:
-1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. Sustainable Cities and Society. (Under review)
+1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. Sustainable Cities and Society. (Under review) https://dx.doi.org/10.2139/ssrn.4423582
 
 2.	Zhao, W., Abhishek, A., **Takhellambam, B.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets. Water Resource Research. https://doi.org/10.1029/2022WR034305
 
