@@ -1,5 +1,4 @@
 Sl.No | Honor & Awards| Year
---- | --- | --- 
 
 1 | Outstanding Research Paper Award, The Southeastern Universities Graduate Research Symposium | 2023
 2 | Auburn University’s Outstanding Doctoral Student Award |	2023
@@ -18,12 +17,12 @@ Sl.No | Honor & Awards| Year
 15 | Mr. Fresher, IIT Roorkee, India | 2014
 16 | Graduate Aptitude Test in Engineering (GATE), All India Rank 19, India | 2014
 17 | Second in Intensive training program on science communication, India | 2013
-18 | Merit fellowship, Northeastern Council, India  |                                                                  2010-14
-19 |	State Merit Scholarship, Government of Manipur, India |                                                   2010-14
-20 |	Indian Oil Merit Scholarships Scheme for secondary education, India  |                             2008-10
-21 |	Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India     |             2008
-22 |Selected combined annual training camp for National Cadet Corps, India |                             2007
-23 |National Cadet Corps-A certificate    |                                                                                       2007
-24 |	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India  |             2003-10
+18 | Merit fellowship, Northeastern Council, India  | 2010-14
+19 |	State Merit Scholarship, Government of Manipur, India | 2010-14
+20 |	Indian Oil Merit Scholarships Scheme for secondary education, India  | 2008-10
+21 |	Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India |  2008
+22 |Selected combined annual training camp for National Cadet Corps, India | 2007
+23 |National Cadet Corps-A certificate  | 2007
+24 |	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India  | 2003-10
 
 
