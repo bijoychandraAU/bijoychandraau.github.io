@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: "Publications"
 ---
+
 
 ## Peer Reviewed:
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. Sustainable Cities and Society](https://dx.doi.org/10.2139/ssrn.4423582). (Under review) 
