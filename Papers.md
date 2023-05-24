@@ -1,14 +1,15 @@
 
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. Sustainable Cities and Society](https://dx.doi.org/10.2139/ssrn.4423582). (Under review) 
 
-2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (in press)
-3.	Zhao, W., Abhishek, A., **Takhellambam, B.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023.[Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets]( https://doi.org/10.1029/2022WR034305). Water Resource Research.
+2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (in press)
+
+3.	Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023.[Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets]( https://doi.org/10.1029/2022WR034305). Water Resource Research.
 
 4.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. [Projected mid-century rainfall erosivity under climate change over the southeastern United States](https://doi.org/10.1016/j.scitotenv.2022.161119). Science of The Total Environment
 
 5.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. [Temporal disaggregation of hourly precipitation under changing climate over the Southeast United States](https://doi.org/10.1038/s41597-022-01304-7 ). Scientific Data.
 
-6.	Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.**, Bondesan, L., 2022. [Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling](https://doi.org/10.1016/j.agwat.2022.107877). Agricultural Water Management.
+6.	Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.S.**, Bondesan, L., 2022. [Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling](https://doi.org/10.1016/j.agwat.2022.107877). Agricultural Water Management.
 
 7.	Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Way, T.R., Sangha, L., **Takhellambam, B.S.**, Morata, G., Molinari, R., 2022.[Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield](https://doi.org/10.13031/ja.15042). Journal of ASABE.
 
