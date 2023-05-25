@@ -1,6 +1,7 @@
 ---
-permalink: "/about/"
-layout: page
+title: ""
+layout: post
+categories: media
 ---
 
 # About Me:
