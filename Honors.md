@@ -1,5 +1,5 @@
 ---
-title:  "Honor & Awards"
+title:  "Honors & Awards"
 layout: post
 ---
 
