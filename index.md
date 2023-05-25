@@ -14,7 +14,7 @@ categories: media
 His publications and CV are available in the tabs above. The Google Scholar page may be found [here](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en). You may reach him at tzs0075@auburn.edu. 
 
 
-In free time, he enjoys most types of games and sports, particularly soccer, cricket, Table Tennis, Volleyball, and Hiking.
+In free time, he enjoys games and sports particularly soccer, cricket, Table Tennis, Volleyball, and Hiking.
 
 
 # EDUCATION:
