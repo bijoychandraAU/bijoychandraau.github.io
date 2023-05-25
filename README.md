@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-# About Me:
+# ABOUT ME:
 
 <img align="left" width="200" src="/File/profile.png">
 
@@ -25,7 +25,7 @@ In free time, he enjoys games and sports particularly soccer, cricket, Table Ten
 
 
 
-# Research Interest:
+# RESEARCH INTEREST:
 
 - ### Hydroclimatology
 - ### Hydrologic Extremes
