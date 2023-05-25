@@ -5,9 +5,9 @@ title: "Publications"
 
 
 ## Peer Reviewed:
-1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2023. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves](https://dx.doi.org/10.2139/ssrn.4423582). Sustainable Cities and Society.(Under review) 
+1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2023. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves](https://dx.doi.org/10.2139/ssrn.4423582). Sustainable Cities and Society.(Under Review) 
 
-2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (in press)
+2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (In Press)
 
 3.	Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023.[Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets]( https://doi.org/10.1029/2022WR034305). Water Resource Research.
 
