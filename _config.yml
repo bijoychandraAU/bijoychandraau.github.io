@@ -1,6 +1,6 @@
 title: "Bijoychandra Takhellambam"
 author: "Bijoychandra Takhellambam"
-description: "[Auburn University](https://www.auburn.edu/)"
+description: [Auburn University](https://www.auburn.edu/)
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_social: true
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
