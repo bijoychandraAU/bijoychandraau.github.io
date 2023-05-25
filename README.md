@@ -4,8 +4,8 @@ layout: page
 ---
 
 # About Me:
-![Profile](/File/profile.jpg){: style="float: right"}
 
+![Profile](/File/profile.jpg) 
 
 **Bijoychandra Takhellambam** is a Ph.D. candidate from the [Department of Biosystem Engineering, Auburn University] (https://www.eng.auburn.edu/bsen/). He holds a Master in Hydrology from [Indian Institute of Technology, Roorkee, India] (https://hy.iitr.ac.in/). His work focuses on climate impacts on water resources, including rainfall erosivity, hydroclimatic extremes, and hydrological modeling. Past research includes Developed soil erosion model for estimation of a small-hilly watershed area using the Watershed Erosion Prediction Project (WEPP) model, **Cost-effective combination of T-head groynes for river bank protection**, and hydraulic modeling using 1-D HEC-RAS for flood discharge estimation using at-site stage information. He is currently working in **Climate Change Implications on Rainfall Erosivity and Intensity-Duration-Frequency (IDF) Curves with Downscaled Precipitation Data over the Southeast United States**.
 
@@ -13,6 +13,22 @@ My publications and CV are available in the tabs above. My Google Scholar page m
 
 
 In free time, he enjoys most types of games and sports, particularly soccer, cricket, Table Tennis, Volleyball, and Hiking.
+
+# About:
+
+
+|---------------------------------------------------------------------------------------------------------|--------|
+| 
+**Bijoychandra Takhellambam** is a Ph.D. candidate from the [Department of Biosystem Engineering, Auburn University] (https://www.eng.auburn.edu/bsen/). He holds a Master in Hydrology from [Indian Institute of Technology, Roorkee, India] (https://hy.iitr.ac.in/). His work focuses on climate impacts on water resources, including rainfall erosivity, hydroclimatic extremes, and hydrological modeling. Past research includes Developed soil erosion model for estimation of a small-hilly watershed area using the Watershed Erosion Prediction Project (WEPP) model, **Cost-effective combination of T-head groynes for river bank protection**, and hydraulic modeling using 1-D HEC-RAS for flood discharge estimation using at-site stage information. He is currently working in **Climate Change Implications on Rainfall Erosivity and Intensity-Duration-Frequency (IDF) Curves with Downscaled Precipitation Data over the Southeast United States**.
+
+My publications and CV are available in the tabs above. My Google Scholar page may be found [here](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en). You may reach me at tzs0075@auburn.edu. 
+
+
+In free time, he enjoys most types of games and sports, particularly soccer, cricket, Table Tennis, Volleyball, and Hiking.               | ![Profile](/File/profile.jpg)   |
+
+
+
+
 
 
 # EDUCATION:
