@@ -3,6 +3,7 @@ permalink: "/about/"
 layout: page
 ---
 
+# About Me
 ![Profile](/File/profile.jpg){: style="float: right"}
 
 
