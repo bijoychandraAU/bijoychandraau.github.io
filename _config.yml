@@ -8,24 +8,25 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_social: true
+
 show_excerpts: TRUE        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: True             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Papers.md", title: "Publications"}
   - {file: "Honors.md", title: "Honors & Awards"}
-  - {url: "/File/Bijoychandra Takhellambam - CV.pdf", title: Vitae} 
-  - {file: "README.md", title: "Home"}
+  - {url: "File/Bijoychandra Takhellambam - CV.pdf", title: Vitae} 
+  - {file: "index.md", title: "Home"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
