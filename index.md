@@ -5,7 +5,8 @@ layout: page
 
 # About Me:
 
-![Profile](/File/profile.png) 
+<img align="left" src="/File/profile.png">
+
 
 **Bijoychandra Takhellambam** is a Ph.D. candidate from the [Department of Biosystem Engineering, Auburn University](https://www.eng.auburn.edu/bsen/). He holds a Master in Hydrology from [Indian Institute of Technology, Roorkee, India](https://hy.iitr.ac.in/). His work focuses on climate impacts on water resources, including rainfall erosivity, hydroclimatic extremes, and hydrological modeling. Past research includes *developing Best Practice Management (BMPs) using soil erosion model for a small-hilly watershed*, *Cost-effective combination of T-head groynes for river bank protection*, and *hydraulic modeling using 1-D HEC-RAS for flood discharge estimation using at-site stage information*. He is currently working in *Climate Change Implications on Rainfall Erosivity and Intensity-Duration-Frequency (IDF) Curves with Downscaled Precipitation Data over the Southeast United States*.
 
