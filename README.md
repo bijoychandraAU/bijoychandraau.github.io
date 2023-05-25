@@ -3,7 +3,7 @@ permalink: "/about/"
 layout: page
 ---
 
-# About Me
+# About Me:
 ![Profile](/File/profile.jpg){: style="float: right"}
 
 
@@ -15,7 +15,7 @@ My publications and CV are available in the tabs above. My Google Scholar page m
 In free time, he enjoys most types of games and sports, particularly soccer, cricket, Table Tennis, Volleyball, and Hiking.
 
 
-# EDUCATION
+# EDUCATION:
 
 |**Education**                                      | **University/Institute**                             | **Year**|
 |---------------------------------------------------|------------------------------------------------------|--------|
@@ -25,7 +25,7 @@ In free time, he enjoys most types of games and sports, particularly soccer, cri
 
 
 
-## Research Interest
+# Research Interest:
 
 ## Developemnt of high-temproal resolution datasets"
 The study of climate impacts onw ater resoruces required high-temporal resolution datasets. For isntance, sub-hourly rainfall datasets for quanitfying the imaopct of cliamt eon soil erosion, flood discahrge. However, the availabel climate datasets are available in aggregated daatsets such as hourly or daily. Therefore, limtied avaliable of sub-hourly dataasets are requried to develop for a preicse estiamtion.
