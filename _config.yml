@@ -26,7 +26,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
-  - {title: Google Scholar, icon: "google-scholar", icon_pack = "ai", url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
