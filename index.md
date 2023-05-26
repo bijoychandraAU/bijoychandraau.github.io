@@ -29,7 +29,7 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 
 - ### Hydroclimatology
 - ### Hydrologic Extremes
-- ### Hydrologcial/hydraulic modeling
+- ### Hydrological/hydraulic modeling
 - ### Deep Learning
 - ### Statistical analysis
 - ### Soil erosion conservation measures 
