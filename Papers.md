@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-## Peer Reviewed:
+## Peer-reviewed
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2023. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves](https://dx.doi.org/10.2139/ssrn.4423582). Sustainable Cities and Society. (Under Review) 
 
 2.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (In Press)
@@ -22,7 +22,7 @@ title: "Publications"
 8.	Kumar, H., Srivastava, P., Ortiz, B.V., Morata, G., **Takhellambam, B.S.**, Lamba, J., Bondesan, L., 2021. [Field-scale spatial and temporal soil water variability in irrigated croplands](https://doi.org/10.13031/trans.14335 ). Transactions of the ASABE.
 
 
-## Non-Peer Reviewed:
+## Other publications
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. [Projected rainfall erosivity under climate change in the southeastern united states](https://doi.org/10.13031/aim.202200176), in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI. 
 
 2.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. [Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.](https://doi.org/10.13031/aim.202200175), in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI. 
