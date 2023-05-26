@@ -7,6 +7,7 @@ title: "Publications"
 ## Submitted/ In-preparation/ Under Review
 
 3. Soil loss risk analysis for construction activities for future scenarios
+
 2.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique. (In-preparation) 
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., Molinari, R., 2023. [Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves](https://dx.doi.org/10.2139/ssrn.4423582). Sustainable Cities and Society. (Under Review) 
 
@@ -30,6 +31,7 @@ title: "Publications"
 
 
 ## Other publications
+
 2.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. [Projected rainfall erosivity under climate change in the southeastern united states](https://doi.org/10.13031/aim.202200176), in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI. 
 
 1.	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. [Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.](https://doi.org/10.13031/aim.202200175), in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI. 
