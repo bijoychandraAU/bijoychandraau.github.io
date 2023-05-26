@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-# About Me:
+# ABOUT ME
 
 <img align="left" width="200" src="/File/profile.png">
 
@@ -15,7 +15,7 @@ categories: media
 He likes activities and sports in his spare time, including soccer, cricket, table tennis, volleyball, and hiking.
 
 
-# EDUCATION:
+# EDUCATION
 
 |**Education**                                      | **University/Institute**                             | **Year**|
 |---------------------------------------------------|------------------------------------------------------|--------|
@@ -25,7 +25,7 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 
 
 
-# Research Interest:
+# RESEARCH INTEREST 
 
 - ### Hydroclimatology
 - ### Hydrologic Extremes
