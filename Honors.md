@@ -9,7 +9,7 @@ layout: post
 | 2       | [Auburn University’s Outstanding Doctoral Student Award](https://rb.gy/ddea3)               | 2023    |
 | 3       | [Member Alpha Epsilon honorary society](https://www.asabe.org/engage)                       | 2023    |
 | 4       | Winner Graduate Research Showcase Poster competition, AU, AL                                | 2022    |
-| 5       | Winner Boyd-Scott Graduate Research Award, Houston, TX 	                                    | 2022    |
+| 5       | Winner [Boyd-Scott Graduate Research Award](https://asabe.org/Boyd-Scott), Houston, TX 	    | 2022    |
 | 6       | Winner Graduate Research Paper Award, AABFEIO, ASABE, Houston, TX                           | 2022    |
 | 7       | Registration waiver for Annual International Meeting (ASABE), Houston, TX                   | 2022    |
 | 8       | Registration waiver for HydroML symposium, Penn State University, PA                        | 2022    |
