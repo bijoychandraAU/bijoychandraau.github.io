@@ -20,8 +20,8 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 |**Education**                                      | **University/Institute**                             | **Year**|
 |---------------------------------------------------|------------------------------------------------------|--------|
 | Ph.D. in Biosystem Engineering (Statistics Minor) | Auburn University, Alabama, US                       | 2023 (July)    |
-| M.Tech in Hydrology                               | Indian Institute of Technology (IIT), Roorkee, India | 2016    |
-| B. Tech in Agricultural Engineering               | Central Agricultural University, Imphal, India       | 2014    |
+| Master in Hydrology                               | Indian Institute of Technology (IIT), Roorkee, India | 2016    |
+| Bachelor in Agricultural Engineering               | Central Agricultural University, Imphal, India       | 2014    |
 
 
 
