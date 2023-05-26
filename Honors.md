@@ -18,12 +18,12 @@ layout: post
 | 11      | Travel Grant, American Geophysical Union (AGU) Fall Meeting, Virtual                        | 2021    |
 | 12      | Selected 5-day Waterhackweek workshop, University of Washington, Virtual                    | 2020    |
 | 13      | Indian Council of Agricultural Research National Eligibility Test (ICAR-NET), India         | 2018    |
-| 14      | Merit fellowship, Ministry of Education, India                                              | 2014-16 |
+| 14      | Merit fellowship for master degree, Ministry of Education, India                            | 2014-16 |
 | 15      | Graduate Aptitude Test in Engineering (GATE), All India Rank 19, India                      | 2014    |
 | 16      | Second in Intensive training program on science communication, India                        | 2013    |
-| 17      | Merit fellowship, Northeastern Council, India                                               | 2010-14 |
-| 18      |	State Merit Scholarship, Government of Manipur, India                                       | 2010-14 |
+| 17      | Merit fellowship Bachelor degree, Northeastern Council, India                               | 2010-14 |
+| 18      |	State Merit Scholarship for Bachelor degree, Government of Manipur, India                   | 2010-14 |
 | 19      |	Indian Oil Merit Scholarships Scheme for secondary education, India                         | 2008-10 |
 | 20      |	Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India                  | 2008    |
-| 21     |	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India                 | 2003-10 |
+| 21      |	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India                 | 2003-10 |
 
