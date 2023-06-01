@@ -15,7 +15,7 @@ title: "Publications"
 
 ## Peer-reviewed
 
-7.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A numerical modeling approach to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management. (In Press)
+7.	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A methodology to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
 
 6.	Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [doi.org/10.1029/2022WR034305]( https://doi.org/10.1029/2022WR034305)
 
