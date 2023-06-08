@@ -6,7 +6,7 @@ title: "Publications"
 
 ## Submitted/ In-preparation/ Under Review
 
-[3]. **Takhellambam, B.S.** 2023. Soil loss risk analysis for construction activities for future scenarios. (In-preparation) 
+[3]. **Takhellambam, B.S.**, 2023. Soil loss risk analysis for construction activities for future scenarios. (In-preparation) 
 
 [2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique. (In-preparation) 
 
