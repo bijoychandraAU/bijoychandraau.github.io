@@ -6,9 +6,9 @@ title: "Publications"
 
 ## Submitted/ In-preparation/ Under Review
 
-[3]. **Takhellambam, B.S.**, 2023. Soil loss risk analysis for construction activities for future scenarios. (In-preparation) 
+[3]. **Takhellambam, B.S.**, 2023. **Soil loss risk analysis for construction activities for future scenarios**. (In-preparation) 
 
-[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique. (In-preparation) 
+[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. (In-preparation) 
 
 [1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., Molinari, R., 2023. **Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves**. Atmospheric Research (Under Review) 
 
@@ -16,7 +16,7 @@ title: "Publications"
 
 ## Peer-reviewed
 
-[7].	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. A methodology to optimize site-specific field capacity and irrigation thresholds. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
+[7].	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
 
 [6].	Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [doi.org/10.1029/2022WR034305]( https://doi.org/10.1029/2022WR034305)
 
