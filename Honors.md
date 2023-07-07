@@ -5,6 +5,7 @@ layout: post
 
 |**Sl.No**| **Honor & Awards**                                                                          | **Year**|
 |---------|---------------------------------------------------------------------------------------------|---------|
+| 23      | Winner [Graduate Research Paper Award, AABFEIO, ASABE](https://asabe.org/AABFEIO), Omaha, NE| 2023    |
 | 22      | Travel Fellowship, Graduate Student Council, Auburn University, AL                          | 2023    |
 | 21      | Outstanding Research Paper Award, [SUGRS](https://sugrs.ua.edu/), University of Alabama     | 2023    |
 | 20      | [Auburn University’s Outstanding Doctoral Student Award](https://rb.gy/ddea3)               | 2023    |
