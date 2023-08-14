@@ -17,6 +17,7 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 
 # RESEARCH INTEREST 
 
+- ### Climate impact assessment of water and environmental resources
 - ### Hydroclimatology
 - ### Hydrologic Extremes
 - ### Hydrological/hydraulic modeling
