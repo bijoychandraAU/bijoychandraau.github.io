@@ -8,7 +8,7 @@ title: "Publications"
 
 [3]. **Takhellambam, B.S.**, 2023. **Soil loss risk analysis for construction activities for future scenarios**. (In-preparation) 
 
-[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. (In-preparation) 
+[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
 
 [1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., Molinari, R., 2023. **Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves**. Atmospheric Research (Under Review) 
 
