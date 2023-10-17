@@ -1,6 +1,6 @@
-title: "Bijoychandra Takhellambam"
-author: "Bijoychandra Takhellambam"
-description: "Auburn University"
+title: "Bijoychandra S. Takhellambam"
+author: "Bijoychandra S. Takhellambam"
+description: "Purdue University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:tzs0075@auburn.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:tbijoych@purdue.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
