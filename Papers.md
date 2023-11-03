@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-## Submitted/ In-preparation/ Under Review
+## Submitted/ Under Review
 
 [2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
 
