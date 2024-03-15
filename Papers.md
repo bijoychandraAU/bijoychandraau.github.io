@@ -6,13 +6,11 @@ title: "Publications"
 
 ## Submitted/ Under Review
 
-[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
-
-[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., Molinari, R., 2023. **Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves**. Atmospheric Research (Under Review) 
-
+[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
 
 
 ## Peer-reviewed
+[8]. Takhellambam, B. S., Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate. Atmospheric Research, 297, 107122. [https://doi.org/10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122).
 
 [7].	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
 
