@@ -28,8 +28,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:tbijoych@purdue.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra/"}
-  - {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Bijoychandra-Takhellambam"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
+  #- {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Bijoychandra-Takhellambam"}
+  #- {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
 
 
 comments:
