@@ -10,7 +10,7 @@ title: "Publications"
 
 
 ## Peer-reviewed
-[8]. Takhellambam, B. S., Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate. Atmospheric Research, 297, 107122. [https://doi.org/10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122).
+[8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate. Atmospheric Research, 297, 107122. [https://doi.org/10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122).
 
 [7].	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
 
