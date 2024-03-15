@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tbijoych@purdue.edu"}
   - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra-takhellambam-3a06741b/"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
 
 comments:
