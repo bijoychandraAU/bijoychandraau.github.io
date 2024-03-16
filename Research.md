@@ -15,6 +15,7 @@ categories: media
 <div>
    <img align="left" width="200" src="/File/PhD.jpg" style="margin-right: 20px;">    
     <p><strong>Climate Change Implications on Rainfall and its Characteristics</strong><br>
-    The study developed high-temporal resolution precipitation data using in-situ and NetCDF datasets, and created [PrecipTDS](https://github.com/bijoychandraAU/PrecipTDS), an R-package for generating future 15-minute rainfall projections from various climate models. It quantified mid-century rainfall erosivity under climate change in the Southeast United States and developed artificial neural network-powered rainfall intensity-duration-frequency curves for future climate scenarios. Additionally, the study quantified uncertainty in these curves using bootstrapping resampling techniques.</p>
+    The study developed high-temporal resolution precipitation data using in-situ and NetCDF datasets, and created <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a>, an R-package for generating future 15-minute rainfall projections from various climate models. It quantified mid-century rainfall erosivity under climate change in the Southeast United States and developed artificial neural network-powered rainfall intensity-duration-frequency curves for future climate scenarios. Additionally, the study quantified uncertainty in these curves using bootstrapping resampling techniques.</p>
 </div>
+
 
