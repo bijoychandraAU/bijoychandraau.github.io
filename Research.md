@@ -1,7 +1,24 @@
 ---
-title:  "Honors & Awards"
+title:  "Research"
 layout: post
+categories: media
 ---
+
+#Research Experiences:
+|**Sl.No**| **Research Projects**                                                                          |
+|---------|---------------------------------------------------------------------------------------------|
+|<img align="left" width="200" src="/File/profile.png"> | Model development of Variable Infiltration Capacity (VIC)|
+
+
+
+
+
+2. Climate Change and implication on Rainfall and its characteristics
+3. best Mangement Practice Under Changign Climate for a small hilly watershed
+4. Cost Effective Analysis of T-headed Groynes
+5. Hydraulic Modeling for estimation of River Discharge: case study of two rivers
+
+
 
 |**Sl.No**| **Honor & Awards**                                                                          | **Year**|
 |---------|---------------------------------------------------------------------------------------------|---------|
