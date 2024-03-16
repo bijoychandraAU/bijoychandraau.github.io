@@ -5,7 +5,7 @@ categories: media
 ---
 
 <div>
-    <img align="left" width="200" src="/File/VIC.png">
+    <img align="left" width="200" src="/File/VIC.PNG">
     <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
     Drainage or tile drainage for sub-surface is essential for water nutrient management in high-water table areas.</p>
 </div>
