@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "ABOUT ME"
 layout: post
 categories: media
 ---
-
-# ABOUT ME
 
  <img align="left" width="200" src="/File/profile.png" style="margin-right: 20px;">
 
@@ -13,7 +11,7 @@ categories: media
 
 He likes activities and sports in his spare time, including soccer, cricket, table tennis, volleyball, and hiking.
 
- ## EDUCATION
+ # EDUCATION
 
 - **Ph.D. in Biosystem Engineering (Statistics Minor)**
   [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)
