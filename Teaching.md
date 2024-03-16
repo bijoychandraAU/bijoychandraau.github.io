@@ -14,7 +14,7 @@ Currently, as a co-instructor, I am teaching two undergrad courses.
 <div style="clear:both;"></div>
 
 <div>
-    <img align="left" width="200" src="/File/NRES497.jpg">
+    <img align="left" width="200" src="/File/NRES497.PNG">
     <p><strong>2. Senior Capstone Design</strong><br>
     Through small group projects, students apply the multidisciplinary insights they have learned in class to investigate current environmental issues. Activities for service-learning are included in these projects, which are designed to fit into the semester. Depending on the interests of the students, topics can range from urban gardening to stormwater management.  This capstone project connects academia with practical environmental practices by providing chances for professional growth, networking, and hands-on learning.</p>
 </div>
