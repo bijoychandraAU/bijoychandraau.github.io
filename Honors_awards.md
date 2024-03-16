@@ -3,8 +3,6 @@ title: "Honors & Awards"
 layout: post
 ---
 
-### Honors & Awards
-
 1. [Presentation (Oral) Excellence Award, ASABE Annual International Meeting](https://asabe.org), Omaha, NE (2023)
 2. [Graduate Research Paper Award, AABFEIO, ASABE Annual International Meeting](https://asabe.org/AABFEIO), Omaha, NE (2023)
 3. Travel Fellowship, Graduate Student Council, Auburn University, AL (2023)
