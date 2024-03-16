@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching Experiences:"
 layout: post
 categories: media
 ---
