@@ -19,3 +19,10 @@ categories: media
 </div>
 
 
+<div style="clear:both;"></div>
+
+<div>
+   <img align="left" width="200" src="/File/3.ICAR.jpg" style="margin-right: 20px;">    
+    <p><strong>Assessing Runoff, Soil Erosion, and Erosion Potential in Hilly Watersheds: Field and Simulation Studies on different Farming Systems under changing climate</strong><br>
+    In this study, best practice management was developed under changing climate. A processed based soil erosion model was used to simulate different farmign system. </p>
+</div>
