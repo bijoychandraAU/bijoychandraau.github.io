@@ -3,15 +3,18 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
+Overall goal of my research is sustainable developement. The changing climate and exponential population has demanded for Food and Water resources. TO meet this demands, my research aims to fulfill them through sustainalble mangameent of water resources. 
+
 # RESEARCH INTEREST 
 
-- ### Climate impact assessment of water and environmental resources
-- ### Hydroclimatology
-- ### Remote Sensing
-- ### Hydrologic Extremes
-- ### Hydrological/hydraulic modeling
-- ### Deep Learning
-- ### Statistical analysis
+- **Climate impact assessment of water and environmental resources**
+- **Hydroclimatology**
+- **Remote Sensing**
+- **Hydrologic Extremes**
+- **Hydrological/hydraulic modeling**
+- **Deep Learning**
+- **Statistical analysis**
+
 
 # RESEARCH EXPERIENCES
 <div>
