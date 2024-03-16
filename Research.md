@@ -1,5 +1,5 @@
 ---
-title: "Research Experiences"
+title: "RESEARCH"
 layout: post
 categories: media
 ---
@@ -13,6 +13,7 @@ categories: media
 - ### Deep Learning
 - ### Statistical analysis
 
+# RESEARCH EXPERIENCES
 <div>
     <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
     <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
@@ -40,6 +41,6 @@ categories: media
 
 <div>
    <img align="left" width="200" src="/File/5.MTech.png" style="margin-right: 20px;">    
-    <p><strong> River discharge estimation only using at-site stage information</strong><br>
+    <p><strong> Hydraulic Modeling for River Discharge</strong><br>
     In this study, best practice management was developed under changing climate. A processed based soil erosion model was used to simulate different farmign system. </p>
 </div>
