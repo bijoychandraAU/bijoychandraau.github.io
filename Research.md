@@ -3,6 +3,15 @@ title: "Research Experiences"
 layout: post
 categories: media
 ---
+# RESEARCH INTEREST 
+
+- ### Climate impact assessment of water and environmental resources
+- ### Hydroclimatology
+- ### Remote Sensing
+- ### Hydrologic Extremes
+- ### Hydrological/hydraulic modeling
+- ### Deep Learning
+- ### Statistical analysis
 
 <div>
     <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
