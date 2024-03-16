@@ -1,6 +1,6 @@
 ---
 title: "Honors & Awards"
-layout: post
+layout: page
 ---
 
 [24]. Presentation [(Oral) Excellence Award, ASABE Annual International Meeting](https://asabe.org), Omaha, NE (2023)
