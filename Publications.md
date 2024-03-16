@@ -3,12 +3,6 @@ layout: page
 title: "Publications"
 ---
 
-
-## Submitted/ Under Review
-
-[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
-
-
 ## Peer-reviewed
 [8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [https://doi.org/10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122).
 
@@ -32,5 +26,9 @@ title: "Publications"
 [2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern united states**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[doi.org/10.13031/aim.202200176](https://doi.org/10.13031/aim.202200176)
 
 [1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[doi.org/10.13031/aim.202200175](https://doi.org/10.13031/aim.202200175)
+
+## Submitted/ Under Review
+
+[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
 
 
