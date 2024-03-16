@@ -13,11 +13,19 @@ categories: media
 
 He likes activities and sports in his spare time, including soccer, cricket, table tennis, volleyball, and hiking.
 
-# EDUCATION
+ # EDUCATION
 
-|**Education**                                      | **University/Institute**                             | **Year**|
-|---------------------------------------------------|------------------------------------------------------|--------|
-| Ph.D. in Biosystem Engineering (Statistics Minor) | [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)                       | 2023   |
-| Master in Hydrology (Surface Water)               | [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/) | 2016    |
-| Bachelor in Agricultural Engineering               | [Central Agricultural University, Imphal, India](https://caephtcau.nic.in/)       | 2014    |
+- **Ph.D. in Biosystem Engineering (Statistics Minor)**
+  [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)
+  (2023)
 
+- **Master in Hydrology (Surface Water)**
+  [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/)
+  (2016)
+
+- **Bachelor in Agricultural Engineering**
+  [Central Agricultural University, Imphal, India](https://caephtcau.nic.in/)
+  (2014)
+
+
+ 
