@@ -1,32 +1,20 @@
 ---
-title:  "Honors & Awards"
+title: "Teaching"
 layout: post
+categories: media
 ---
+Currently, as a co-instructor, I am teaching two undergrad courses. 
+<div>
+    <img align="left" width="200" src="/File/NRES338.jpg">
+    <p><strong>1. Environmental Field Skills</strong><br>
+  This practical laboratory course seeks to provide students with firsthand experience with environmental monitoring field methodologies, using real-world events as a basis. These include of measuring stream discharge, carrying out slug tests, gathering aquatic sample data, carrying out surveys, and drawing wetlands boundaries. Using surrounding areas and watersheds as our classroom, this course aims to give students real-world experience.    
+</p>
+</div>
 
-|**Sl.No**| **Honor & Awards**                                                                          | **Year**|
-|---------|---------------------------------------------------------------------------------------------|---------|
-| 24      | [Presentation (Oral) Excellence Award, ASABE Annual Internatioal Meeting](https://asabe.org), Omaha, NE| 2023    |
-| 23      | [Graduate Research Paper Award, AABFEIO, ASABE Annual Internatioal Meeting](https://asabe.org/AABFEIO), Omaha, NE| 2023    |
-| 22      | Travel Fellowship, Graduate Student Council, Auburn University, AL                          | 2023    |
-| 21      | Outstanding Research Paper Award, [SUGRS](https://sugrs.ua.edu/), University of Alabama     | 2023    |
-| 20      | [Auburn University’s Outstanding Doctoral Student Award](https://rb.gy/ddea3)               | 2023    |
-| 19      | [Member Alpha Epsilon honorary society](https://www.asabe.org/engage)                       | 2023    |
-| 18      | Winner Graduate Research Showcase Poster competition, AU, AL                                | 2022    |
-| 17      | Winner [Boyd-Scott Graduate Research Award](https://asabe.org/Boyd-Scott), Houston, TX 	    | 2022    |
-| 16      | Winner [Graduate Research Paper Award, AABFEIO, ASABE Annual Internatioal Meeting](https://asabe.org/AABFEIO), Houston, TX  | 2022    |
-| 15      | Registration waiver for Annual International Meeting (ASABE), Houston, TX                   | 2022    |
-| 14      | Registration waiver for HydroML symposium, Penn State University, PA                        | 2022    |
-| 13      | Travel Fellowship, Graduate Student Council, Auburn University, AL                          | 2022    | 
-| 12      | Travel Grant, NSF-Funded HydroML conference, Penn State University, PA                      | 2022    |
-| 11      | Travel Grant, American Geophysical Union (AGU) Fall Meeting, Virtual                        | 2021    |
-| 10      | Selected 5-day Waterhackweek workshop, University of Washington, Virtual                    | 2020    |
-| 9       | Indian Council of Agricultural Research National Eligibility Test (ICAR-NET), India         | 2018    |
-| 8       | Merit fellowship for master degree, Ministry of Education, India                            | 2014-16 |
-| 7       | Graduate Aptitude Test in Engineering (GATE), All India Rank 19, India                      | 2014    |
-| 6       | Second in Intensive training program on science communication, India                        | 2013    |
-| 5       | Merit fellowship Bachelor degree, Northeastern Council, India                               | 2010-14 |
-| 4       |	State Merit Scholarship for Bachelor degree, Government of Manipur, India                   | 2010-14 |
-| 3       |	Indian Oil Merit Scholarships Scheme for secondary education, India                         | 2008-10 |
-| 2       |	Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India                  | 2008    |
-| 1       |	Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India                 | 2003-10 |
+<div style="clear:both;"></div>
 
+<div>
+    <img align="left" width="200" src="/File/NRES497.jpg">
+    <p><strong>2. Senior Capstone Design</strong><br>
+    Through small group projects, students apply the multidisciplinary insights they have learned in class to investigate current environmental issues. Activities for service-learning are included in these projects, which are designed to fit into the semester. Depending on the interests of the students, topics can range from urban gardening to stormwater management.  This capstone project connects academia with practical environmental practices by providing chances for professional growth, networking, and hands-on learning.</p>
+</div>
