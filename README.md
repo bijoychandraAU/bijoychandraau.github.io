@@ -23,13 +23,3 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 | Ph.D. in Biosystem Engineering (Statistics Minor) | [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)                       | 2023 (July)    |
 | Master in Hydrology (Surface Water)               | [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/) | 2016    |
 | Bachelor in Agricultural Engineering               | [Central Agricultural University, Imphal, India](https://caephtcau.nic.in/)       | 2014    |
-
-
-
-# RESEARCH INTEREST 
-
-- ### Hydroclimatology
-- ### Hydrologic Extremes
-- ### Hydrological/hydraulic modeling
-- ### Deep Learning
-- ### Statistical analysis
