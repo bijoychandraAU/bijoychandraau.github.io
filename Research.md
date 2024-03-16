@@ -1,19 +1,20 @@
 ---
-title:  "Research"
+title:  "Research Experiences:"
 layout: post
 categories: media
 ---
 
-#Research Experiences:
-|**Sl.No**| **Research Projects**                                                                          |
-|---------|---------------------------------------------------------------------------------------------|
-|<img align="left" width="200" src="/File/profile.png"> | Model development of Variable Infiltration Capacity (VIC)|
+
+<img align="left" width="200" src="/File/profile.png">  # Model development of Variable Infiltration Capacity (VIC): Drainage or tile drainage offr sub-surface is essential for water nutrient managment for high-water table areas.
+
+|<img align="left" width="200" src="/File/profile.png">  # Climate Change and implication on Rainfall and its characteristics:
 
 
 
 
 
-2. Climate Change and implication on Rainfall and its characteristics
+
+2. 
 3. best Mangement Practice Under Changign Climate for a small hilly watershed
 4. Cost Effective Analysis of T-headed Groynes
 5. Hydraulic Modeling for estimation of River Discharge: case study of two rivers
