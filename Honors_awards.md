@@ -4,7 +4,6 @@ layout: post
 ---
 
 |**Sl.No**| **Honor & Awards**                                                                          | **Year**|
-|---------|---------------------------------------------------------------------------------------------|---------|
 | 24      | [Presentation (Oral) Excellence Award, ASABE Annual Internatioal Meeting](https://asabe.org), Omaha, NE| 2023    |
 | 23      | [Graduate Research Paper Award, AABFEIO, ASABE Annual Internatioal Meeting](https://asabe.org/AABFEIO), Omaha, NE| 2023    |
 | 22      | Travel Fellowship, Graduate Student Council, Auburn University, AL                          | 2023    |
