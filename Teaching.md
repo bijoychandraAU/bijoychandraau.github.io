@@ -21,9 +21,8 @@ Currently, as a co-instructor, I am teaching two undergraduate courses.
 </div>
 
 
-
 # Teaching Assistant:
-Prior to joining at <a href="[https://github.com/bijoychandraAU/PrecipTDS](https://ag.purdue.edu/department/nres/meet_the_staff/index.html)">Purdue University</a>, I worked as Teaching Assitant for course developemnt, mentoring and guiding graduate students.
+Prior to joining at <a href="https://ag.purdue.edu/department/nres/meet_the_staff/index.html">Purdue University</a>, I worked as Teaching Assitant for course developemnt, mentoring and guiding graduate students.
 <div>
     <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
     <p><strong> 3.R Programming for Data Science</strong><br>
