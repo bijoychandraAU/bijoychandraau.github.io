@@ -45,5 +45,5 @@ Overall goal of my research is sustainable developement. The changing climate an
 <div>
    <img align="left" width="200" src="/File/5.MTech.png" style="margin-right: 20px;">    
     <p><strong> Hydraulic Modeling for River Discharge</strong><br>
-    In this study, best practice management was developed under changing climate. A processed based soil erosion model was used to simulate different farmign system. </p>
+    This reseaerch conducted thorough analysis using the HEC-RAS hydraulic model to evaluate 1-D unsteady flow, focusing on two prominent rivers: Chattahoochee and Godavari. Collected and analyzed daily weather station data alongside meticulously measured river cross-sections and flow discharge. Resulted in the development of a comprehensive HEC-RAS model, contributing to a deeper understanding of hydraulic dynamics and water resource management. </p>
 </div>
