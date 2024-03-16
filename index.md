@@ -14,12 +14,4 @@ categories: media
 He likes activities and sports in his spare time, including soccer, cricket, table tennis, volleyball, and hiking.
 
 
-# RESEARCH INTEREST 
-
-- ### Climate impact assessment of water and environmental resources
-- ### Hydroclimatology
-- ### Hydrologic Extremes
-- ### Hydrological/hydraulic modeling
-- ### Deep Learning
-- ### Statistical analysis
 
