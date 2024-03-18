@@ -3,7 +3,7 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-Overall goal of my research focus in sustainable developement. The changing climate and exponential population has increased demanded for food and Water resources. To meet this demands, my research aims to fulfill them through a sustainable mangameent. 
+Overall goal of my research focus in sustainable development. The changing climate and exponential population growth has increased demanded for food and Water resources. To meet this demands, my research aims to fulfill them through a sustainable management of the resources. 
 
 # RESEARCH INTEREST 
 
