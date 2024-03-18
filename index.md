@@ -13,15 +13,15 @@ He likes activities and sports in his spare time, including soccer, cricket, tab
 # EDUCATION
 
 - **Ph.D. in Biosystem Engineering (Statistics Minor)**
-  [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)
+  [Auburn University](https://www.eng.auburn.edu/bsen/), Alabama, US
   (2023)
 
 - **Master in Hydrology (Surface Water)**
-  [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/)
+  [Indian Institute of Technology (IIT), Roorkee](https://hy.iitr.ac.in/), India
   (2016)
 
 - **Bachelor in Agricultural Engineering**
-  [Central Agricultural University, Imphal, India](https://caephtcau.nic.in/)
+  [CAEPHT- Central Agricultural University](https://caephtcau.nic.in/), Sikkim, India
   (2014)
 
 
