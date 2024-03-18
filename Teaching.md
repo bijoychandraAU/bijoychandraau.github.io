@@ -5,7 +5,7 @@ categories: media
 ---
 Currently, as a co-instructor, I am teaching two undergraduate courses. 
 
-# Co-Instructor:
+# I. Co-Instructor:
 <div>
     <img align="left" width="200" src="/File/NRES338.jpg" style="margin-right: 20px;">
     <p><strong>1. Environmental Field Skills</strong><br>
@@ -21,11 +21,11 @@ Currently, as a co-instructor, I am teaching two undergraduate courses.
 </div>
 
 
-# Teaching Assistant:
+# II. Teaching Assistant:
 Prior to joining at <a href="https://ag.purdue.edu/department/nres/meet_the_staff/index.html">Purdue University</a>, I worked as Teaching Assitant for course developemnt, mentoring and guiding graduate students.
 <div>
     <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
-    <p><strong> 3.R Programming for Data Science</strong><br>
+    <p><strong> 1.R Programming for Data Science</strong><br>
   The goal of this course is to use the R language to introduce students to data science. Additionally, it will introduce students to the concepts of reproducible research, result sharing, version control (using GitHub), and data management and modification. By the end of the course, learners need to be able to generate dynamic reports and interactive web applications for data visualization and analysis. Additionally, students ought to be able to create their own R packages, publish them on GitHub, and use literate programming to document them.</p>
 </div>
 
