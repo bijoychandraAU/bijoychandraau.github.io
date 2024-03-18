@@ -34,7 +34,6 @@ external:                  # shows a footer with social links - for available ic
   #- {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Bijoychandra-Takhellambam"}
   #- {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
 
-theme_mode:   [dark]
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
