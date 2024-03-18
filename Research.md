@@ -3,7 +3,7 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-Overall goal of my research is sustainable developement. The changing climate and exponential population has demanded for Food and Water resources. TO meet this demands, my research aims to fulfill them through sustainalble mangameent of water resources. 
+Overall goal of my research focus in sustainable developement. The changing climate and exponential population has increased demanded for food and Water resources. To meet this demands, my research aims to fulfill them through a sustainable mangameent. 
 
 # RESEARCH INTEREST 
 
@@ -20,7 +20,7 @@ Overall goal of my research is sustainable developement. The changing climate an
 <div>
     <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
     <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
-    Drainage or tile drainage for sub-surface is essential for water nutrient management in high-water table areas.</p>
+    Drainage or tile drainage for sub-surface is essential for water and nutrient management in high-water table areas. The major concern of hypoxia in Missippi is due to the uncontrol discahrge of nutrients from the field and watershed areas. This study focus on integrating the tile drainage to the VIC model for management and decision making for water and nutrients.</p>
 </div>
 
 <div style="clear:both;"></div>
