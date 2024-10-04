@@ -26,6 +26,6 @@ title: "Publications"
 
 [1]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://doi.org/10.13031/aim.202200175)
 
-## Submitted/ Under Review
+## Submitted/ Under Review/In Preparation
 
-[1]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Uncertainty Quantification of Rainfall Intensity Duration Frequency Curves**. Journal of Hydrology (Under Review) 
+[1]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Uncertainty Quantification of Rainfall Intensity Duration Frequency Curves**.
