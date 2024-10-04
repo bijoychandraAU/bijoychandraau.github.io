@@ -10,29 +10,26 @@ Currently, I am a Teaching Assistant for Soil Physics (undergraduate/graduate le
 <div>
     <img align="left" width="200" src="/File/soilphysics.jpg" style="margin-right: 20px;">
     <p><strong> 1. Soil Physics</strong><br>
-  The goal of this course is to use the R language to introduce students to data science. Additionally, it will introduce students to the concepts of reproducible research, result sharing, version control (using GitHub), and data management and modification. By the end of the course, learners need to be able to generate dynamic reports and interactive web applications for data visualization and analysis. Additionally, students ought to be able to create their own R packages, publish them on GitHub, and use literate programming to document them.
-
-
 This course focus on Fundamentals of soil physics; transport of chemicals, heat, and gases; field spatial
 variability; principles and methods of physical analysis of soils; the influence of soil physical processes
 on environmental quality and agricultural production.
 
-The learning objectives:
+The learning objectives:<br>
 •  To understand basic physical processes that occur in soils, including water, chemical, and heat
-transport.
+transport.<br>
 • To be able to calculate key soil physical property values and soil physical process rates, when
-given appropriate input data.
+given appropriate input data.<br>
 • To develop knowledge and skills in the principles and methodology for assessing soil physical
-properties and processes.
+properties and processes.<br>
 • To understand and describe the principles of soil structure formation and soil health
-improvement and assessment.
+improvement and assessment.<br>
 • To understand the effects of soil physical properties and processes on crop production and
 environmental quality</p>
 </div>
 
 # Past Teaching Experiences:
 
-# II. Co-Instructor:
+# II. Co-Instructor (Spring-2024):
 <div>
     <img align="left" width="200" src="/File/NRES338.jpg" style="margin-right: 20px;">
     <p><strong>1. Environmental Field Skills</strong><br>
@@ -48,8 +45,8 @@ environmental quality</p>
 </div>
 
 
-# III. Teaching Assistant:
-Prior to joining at <a href="https://ag.purdue.edu/department/nres/meet_the_staff/index.html">Purdue University</a>, I worked as Teaching Assitant for course developemnt, mentoring and guiding graduate students.
+# III. Teaching Assistant (Fall-2021):
+Prior to joining at <a href="https://ag.purdue.edu/department/nres/meet_the_staff/index.html">Purdue University</a>, I worked as Teaching Assitant for course development, mentoring and guiding graduate students.
 <div>
     <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
     <p><strong> 1.R Programming for Data Science</strong><br>
