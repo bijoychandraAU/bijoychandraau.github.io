@@ -31,7 +31,7 @@ environmental quality</p>
 
 # II. Co-Instructor (Spring-2024):
 <div>
-    <img align="left" width="200" src="/File/NRES338.jpg" style="margin-right: 20px;">
+    <img align="left" width="200" src="/File/NRES338.png" style="margin-right: 20px;">
     <p><strong>1. Environmental Field Skills</strong><br>
   This practical laboratory course seeks to provide students with firsthand experience with environmental monitoring field methodologies, using real-world events as a basis. These include of measuring stream discharge, carrying out slug tests, gathering aquatic sample data, carrying out surveys, and drawing wetlands boundaries. Using surrounding areas and watersheds as our classroom, this course aims to give students real-world experience.</p>
 </div>
