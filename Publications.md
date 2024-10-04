@@ -4,21 +4,21 @@ title: "Publications"
 ---
 
 ## Peer-reviewed
-[8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [PDF](/File/paper1.pdf) | [DOI](https://doi.org/10.1016/j.atmosres.2023.107122)
+[8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [DOI](https://doi.org/10.1016/j.atmosres.2023.107122)
 
-[7]. Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [PDF](/File/paper1) | [DOI](https://doi.org/10.1016/j.agwat.2023.108385)
+[7]. Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [DOI](https://doi.org/10.1016/j.agwat.2023.108385)
 
-[6]. Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [PDF](/File/paper1) | [DOI](https://doi.org/10.1029/2022WR034305)
+[6]. Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [DOI](https://doi.org/10.1029/2022WR034305)
 
-[5]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected mid-century rainfall erosivity under climate change over the southeastern United States**. Science of The Total Environment. 161119. [PDF](/File/paper1) | [DOI](https://doi.org/10.1016/j.scitotenv.2022.161119)
+[5]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected mid-century rainfall erosivity under climate change over the southeastern United States**. Science of The Total Environment. 161119. [DOI](https://doi.org/10.1016/j.scitotenv.2022.161119)
 
 [4]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Temporal disaggregation of hourly precipitation under changing climate over the Southeast United States**. Scientific Data 9, 11. [PDF](/File/paper1) | [DOI](https://doi.org/10.1038/s41597-022-01304-7)
 
-[3]. Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.S.**, Bondesan, L., 2022. **Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling**. Agricultural Water Management 273, 107877. [PDF](https://github.com/your-repo-path/filename.pdf) | [DOI](https://doi.org/10.1016/j.agwat.2022.107877)
+[3]. Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.S.**, Bondesan, L., 2022. **Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling**. Agricultural Water Management 273, 107877.[DOI](https://doi.org/10.1016/j.agwat.2022.107877)
 
-[2]. Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Way, T.R., Sangha, L., **Takhellambam, B.S.**, Morata, G., Molinari, R., 2022. **Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield**. Journal of ASABE,65, 865–880. [PDF](https://github.com/your-repo-path/filename.pdf) | [DOI](https://doi.org/10.13031/ja.15042)
+[2]. Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Way, T.R., Sangha, L., **Takhellambam, B.S.**, Morata, G., Molinari, R., 2022. **Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield**. Journal of ASABE,65, 865–880.  [DOI](https://doi.org/10.13031/ja.15042)
 
-[1]. Kumar, H., Srivastava, P., Ortiz, B.V., Morata, G., **Takhellambam, B.S.**, Lamba, J., Bondesan, L., 2021. **Field-scale spatial and temporal soil water variability in irrigated croplands**. Transactions of the ASABE,1277–1294. [PDF](https://github.com/your-repo-path/filename.pdf) | [DOI](https://doi.org/10.13031/trans.14335)
+[1]. Kumar, H., Srivastava, P., Ortiz, B.V., Morata, G., **Takhellambam, B.S.**, Lamba, J., Bondesan, L., 2021. **Field-scale spatial and temporal soil water variability in irrigated croplands**. Transactions of the ASABE,1277–1294. [DOI](https://doi.org/10.13031/trans.14335)
 
 ## Other publications
 
