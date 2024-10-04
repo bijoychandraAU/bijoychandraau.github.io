@@ -3,9 +3,36 @@ title: "Teaching Experiences:"
 layout: post
 categories: media
 ---
-Currently, as a co-instructor, I am teaching two undergraduate courses. 
+Currently, I am a Teaching Assistant for Soil Physics (undergraduate/graduate level) course. 
 
-# I. Co-Instructor:
+# I. Teaching Assistant (Fall-2024):
+
+<div>
+    <img align="left" width="200" src="/File/soilphysics.jpg" style="margin-right: 20px;">
+    <p><strong> 1. Soil Physics</strong><br>
+  The goal of this course is to use the R language to introduce students to data science. Additionally, it will introduce students to the concepts of reproducible research, result sharing, version control (using GitHub), and data management and modification. By the end of the course, learners need to be able to generate dynamic reports and interactive web applications for data visualization and analysis. Additionally, students ought to be able to create their own R packages, publish them on GitHub, and use literate programming to document them.
+
+
+This course focus on Fundamentals of soil physics; transport of chemicals, heat, and gases; field spatial
+variability; principles and methods of physical analysis of soils; the influence of soil physical processes
+on environmental quality and agricultural production.
+
+The learning objectives:
+•  To understand basic physical processes that occur in soils, including water, chemical, and heat
+transport.
+• To be able to calculate key soil physical property values and soil physical process rates, when
+given appropriate input data.
+• To develop knowledge and skills in the principles and methodology for assessing soil physical
+properties and processes.
+• To understand and describe the principles of soil structure formation and soil health
+improvement and assessment.
+• To understand the effects of soil physical properties and processes on crop production and
+environmental quality</p>
+</div>
+
+# Past Teaching Experiences:
+
+# II. Co-Instructor:
 <div>
     <img align="left" width="200" src="/File/NRES338.jpg" style="margin-right: 20px;">
     <p><strong>1. Environmental Field Skills</strong><br>
@@ -21,7 +48,7 @@ Currently, as a co-instructor, I am teaching two undergraduate courses.
 </div>
 
 
-# II. Teaching Assistant:
+# III. Teaching Assistant:
 Prior to joining at <a href="https://ag.purdue.edu/department/nres/meet_the_staff/index.html">Purdue University</a>, I worked as Teaching Assitant for course developemnt, mentoring and guiding graduate students.
 <div>
     <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
