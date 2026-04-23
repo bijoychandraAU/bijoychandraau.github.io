@@ -18,7 +18,7 @@ His Google Scholar page may be found [here](https://scholar.google.com/citations
 
 
 
- # EDUCATION
+# EDUCATION
 
 |**Education**                                      | **University/Institute**                             | **Year**|
 |---------------------------------------------------|------------------------------------------------------|--------|
