@@ -218,7 +218,7 @@ footer,
 
 footer a,
 .site-footer a {
-  color: var(--cream-muted) !important;
+  color: #ffffff !important;
   margin: 0 0.6rem !important;
   font-size: 1rem !important;
   transition: color 0.2s !important;
@@ -227,12 +227,12 @@ footer a,
 
 footer a:hover,
 .site-footer a:hover {
-  color: var(--silver-light) !important;
+  color: #ffffff !important;
 }
 
 footer p,
 .site-footer p {
-  color: var(--cream-muted) !important;
+  color: #ffffff !important;
   font-size: 0.78rem !important;
   margin-top: 0.5rem !important;
 }
