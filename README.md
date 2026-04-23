@@ -6,7 +6,7 @@ categories: media
 
 # ABOUT ME:
 
-<img align="left" width="200" src="/File/profile.png">
+<img align="left" width="200" src="/File/profile.jpg">
 
 
 
