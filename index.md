@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
- <img align="left" width="200" src="/File/profile.png" style="margin-right: 20px;">
+ <img align="left" width="200" src="/File/profile.jpg" style="margin-right: 20px;">
 
 **Bijoychandra Singh Takhellambam** is a **Senior Faculty Specialist** at the [Maryland Agricultural Experiment Station (MAES)](https://agnr.umd.edu/research/maryland-agricultural-experiment-station/), College of Agriculture and Natural Resources, [University of Maryland](https://umd.edu/), College Park. He completed his **Ph.D. in Biosystem Engineering (Statistics Minor)** from [Auburn University](https://www.eng.auburn.edu/bsen/), where his dissertation examined *Climate Change Implications on Rainfall Erosivity and Intensity-Duration-Frequency (IDF) Curves over the Southeast United States*. He holds a **Master's in Hydrology** (First Class with Distinction) from the [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/), and a **Bachelor's in Agricultural Engineering** from [Central Agricultural University (CAEPHT)](https://caephtcau.nic.in/), India.
 
