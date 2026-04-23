@@ -1,5 +1,5 @@
 ---
-title: "RESEARCH"
+title: "RESEARCH, SERVICE & LEADERSHIP"
 layout: post
 categories: media
 ---
