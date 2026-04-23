@@ -109,26 +109,29 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 ---
 
 
----
-
 # PROFESSIONAL SERVICE & AFFILIATIONS
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
-  <div style="flex: 1; min-width: 300px;">
-    ### 🤝 Professional Memberships
-    * **ASABE** | American Society of Agricultural and Biological Engineers
-    * **AGU** | American Geophysical Union
-    * **AWRA** | American Water Resources Association (National & Alabama Sections)
-    * **AABFEIO** | Association of Agricultural, Biological, and Food Engineers of Indian Origin
-    * **ASCE** | American Society of Civil Engineers
+  <div style="flex: 1; min-width: 300px; line-height: 1.6;">
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">🤝 Professional Memberships</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li><strong>ASABE</strong> | American Society of Agricultural and Biological Engineers</li>
+      <li><strong>AGU</strong> | American Geophysical Union</li>
+      <li><strong>AWRA</strong> | American Water Resources Association (National & Alabama Sections)</li>
+      <li><strong>AABFEIO</strong> | Assoc. of Ag, Biological, & Food Engineers of Indian Origin</li>
+      <li><strong>ASCE</strong> | American Society of Civil Engineers</li>
+    </ul>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    ### 🏛️ Leadership & Outreach
-    **NRES Ambassador Mentor | Purdue University**
-    * Lead recruitment and mentoring for undergraduate ambassador students.
-    * Strategize and execute outreach programs for the Natural Resources & Environmental Sciences department.
+  <div style="flex: 1; min-width: 300px; line-height: 1.6;">
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">🏛️ Leadership & Outreach</h3>
+    <p style="margin-bottom: 8px;"><strong>NRES Ambassador Mentor</strong><br>
+    <span style="color: #666;">Purdue University</span></p>
+    <ul style="padding-left: 18px;">
+      <li>Lead recruitment and mentoring for undergraduate ambassador students.</li>
+      <li>Strategize and execute outreach programs for the Natural Resources & Environmental Sciences department.</li>
+    </ul>
   </div>
 
 </div>
