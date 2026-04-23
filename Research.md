@@ -70,9 +70,6 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 
 # SELECTED PUBLICATIONS
 
-# SELECTED PUBLICATIONS
-
-
 ## Peer-reviewed
 [8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [DOI](https://doi.org/10.1016/j.atmosres.2023.107122)
 
