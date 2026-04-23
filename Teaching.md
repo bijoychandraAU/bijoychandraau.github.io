@@ -54,11 +54,4 @@ Introducing students to the modern data science workflow using the R ecosystem.
 * **Visualization:** Developing dynamic reports and interactive web applications (Shiny).
 * **Software Development:** Guiding students through the creation and documentation of custom R packages.
 
----
 
-### Technical Expertise in Education
-| Category | Tools & Methods |
-| :--- | :--- |
-| **Field Methods** | Stream gauging, Soil sampling, Wetland delineation |
-| **Data Science** | R, GitHub, Reproducible Research (Quarto/Markdown) |
-| **Pedagogy** | Service-learning, Capstone mentorship, Lab instruction |
