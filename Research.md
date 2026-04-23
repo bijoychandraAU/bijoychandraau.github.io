@@ -3,97 +3,103 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-The overall purpose of my research is to focus on sustainable development. The changing climate and rapid population growth have increased the demand for food and water resources. My research strives to meet these expectations by implementing sustainable resource management practices. 
 
-# RESEARCH INTEREST 
+The overarching goal of my research is to advance sustainable development at the intersection of hydrology, climate science, and agricultural systems. Changing climate and rapid population growth have intensified demands on food and water resources. My work addresses these challenges by developing models, data-driven tools, and management strategies that improve how we understand, predict, and respond to hydroclimatic extremes and agricultural water use.
 
-- **Climate impact assessment of water and environmental resources**
-- **Hydroclimatology**
-- **Remote Sensing**
-- **Hydrologic Extremes**
-- **Hydrological/hydraulic modeling**
-- **Deep Learning**
-- **Statistical analysis**
+---
+
+# IMPACT AT A GLANCE
+
+| Publications | Under Review / In Progress | Conference Presentations | Journals Reviewed |
+|:---:|:---:|:---:|:---:|
+| 8 | 4 | 16+ | 15+ |
+
+---
 
 # RESEARCH THEMES
 
-💧 **Rainfall Extremes & IDF Curves**
-
+### 💧 Rainfall Extremes & IDF Curves
 Projecting future rainfall intensity-duration-frequency (IDF) curves under climate change using artificial neural networks and Bayesian uncertainty quantification, with direct applications to engineering design, stormwater infrastructure, and flood risk management across the Southeast United States.
 
-🌱 **Soil Erosion & Land Use**
+### 🌱 Soil Erosion & Land Use
+Quantifying mid-century rainfall erosivity under climate change and developing Best Management Practices (BMPs) for hilly watersheds using the process-based [WEPP](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp) soil erosion model across diverse farming systems.
 
-Quantifying mid-century rainfall erosivity under climate change and developing Best Management Practices (BMPs) for hilly watersheds using the process-based WEPP soil erosion model across diverse farming systems.
+### 🗺️ Hydrological Modeling
+Integrating subsurface tile drainage into the [Variable Infiltration Capacity (VIC)](https://vic.readthedocs.io/en/master/Overview/ModelOverview/) land surface model for water and nutrient management in poorly drained agricultural soils; water quality modeling with SWAT; and flood estimation with [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/).
 
-🗺️ **Hydrological Modeling**
-
-Integrating subsurface tile drainage into the Variable Infiltration Capacity (VIC) land surface model for water and nutrient management in poorly drained agricultural soils; water quality modeling with SWAT; and flood estimation with HEC-RAS.
-
-🛰️ **Precision Agriculture & Remote Sensing**
-
+### 🛰️ Precision Agriculture & Remote Sensing
 UAS-based crop water stress assessment and sensor-driven irrigation management for corn and soybean systems, enabling site-specific decision-making under variable field conditions and changing climate.
 
-
+---
 
 # RESEARCH EXPERIENCES
-<div>
-    <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
-    <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
-   Drainage, sometimes known as subsurface tile drainage, is critical for water and nutrient management in places with high water tables. The primary cause of hypoxia in Mississippi is uncontrolled nitrogen loss from fields and watersheds. This study focuses on integrating tile drainage into the VIC model to improve water and nutrient management and decision making.</p>
+
+<div style="margin-bottom: 2rem; overflow: hidden;">
+  <img align="left" width="210" src="/File/VIC.PNG" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
+  <p>
+    <strong>Subsurface Tile Drainage Integration into the Variable Infiltration Capacity (VIC) Model</strong><br>
+    <em>University of Maryland | Purdue University &nbsp;·&nbsp; 2023 – Present</em><br><br>
+    Subsurface tile drainage is critical for water and nutrient management in poorly drained agricultural soils, particularly across the U.S. Corn Belt. Uncontrolled nitrogen loss from drained fields is a primary driver of hypoxia in the Gulf of Mexico. This project integrates tile drainage processes into the VIC land surface model at both field and watershed scales, enabling improved simulation of water table dynamics, nutrient transport, and drainage outflow — supporting more informed water and nutrient management decisions under current and future climate conditions.
+  </p>
+</div>
+
+<div style="clear:both; margin-bottom: 2rem; overflow: hidden;">
+  <img align="left" width="210" src="/File/PhD.jpg" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
+  <p>
+    <strong>Climate Change Implications on Rainfall Characteristics and Erosivity</strong><br>
+    <em>Auburn University &nbsp;·&nbsp; 2019 – 2023 &nbsp;·&nbsp; Ph.D. Dissertation</em><br><br>
+    This research developed high-temporal-resolution precipitation data by combining in-situ observations with NetCDF climate model outputs. Key contributions include: (1) the <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a> R-package for generating projected 15-minute rainfall from multiple climate models; (2) quantification of projected mid-century rainfall erosivity over the Southeast US; (3) ANN-empowered IDF curves for future climate scenarios; and (4) a Bayesian bootstrapping framework for IDF uncertainty quantification.
+  </p>
+</div>
+
+<div style="clear:both; margin-bottom: 2rem; overflow: hidden;">
+  <img align="left" width="210" src="/File/3.ICAR.jpg" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
+  <p>
+    <strong>Runoff, Soil Erosion & Best Management Practices in Hilly Watersheds</strong><br>
+    <em>ICAR NEH Region, India &nbsp;·&nbsp; 2017 – 2018</em><br><br>
+    Assessed runoff generation and soil erosion potential across different farming systems in small hilly watersheds under changing climate conditions. Using the process-based WEPP model, Best Management Practices were developed and evaluated for their effectiveness in reducing erosion. Field and laboratory soil textural analyses were conducted to parameterize and validate simulation results across distinct land-use scenarios.
+  </p>
+</div>
+
+<div style="clear:both; margin-bottom: 2rem; overflow: hidden;">
+  <img align="left" width="210" src="/File/5.MTech.png" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
+  <p>
+    <strong>Hydraulic Modeling for Flood Discharge Estimation</strong><br>
+    <em>IIT Roorkee, India &nbsp;·&nbsp; 2014 – 2016 &nbsp;·&nbsp; M.S. Thesis</em><br><br>
+    Developed and validated a 1-D unsteady flow model using HEC-RAS for the Chattahoochee (USA) and Godavari (India) rivers to estimate flood discharge using at-site stage information alone — without relying on traditional discharge measurement. Field-measured river cross-sections and daily weather station data were collected and analyzed, contributing to practical approaches for flood estimation in data-scarce environments.
+  </p>
 </div>
 
 <div style="clear:both;"></div>
 
-<div>
-   <img align="left" width="200" src="/File/PhD.jpg" style="margin-right: 20px;">    
-    <p><strong>Climate Change Implications on Rainfall and its Characteristics</strong><br>
-    The study developed high-temporal resolution precipitation data using in-situ and NetCDF datasets, and created <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a>, an R-package for generating future 15-minute rainfall projections from various climate models. It quantified mid-century rainfall erosivity under climate change in the Southeast United States and developed artificial neural network-powered rainfall intensity-duration-frequency curves for future climate scenarios. Additionally, the study quantified uncertainty in these curves using bootstrapping resampling techniques.</p>
-</div>
-
-
-<div style="clear:both;"></div>
-
-<div>
-   <img align="left" width="200" src="/File/3.ICAR.jpg" style="margin-right: 20px;">    
-    <p><strong>Assessing Runoff, Soil Erosion, and Erosion Potential in Hilly Watersheds: Field and Simulation Studies on different Farming Systems under changing climate</strong><br>
-    In this study, best practice management was developed under changing climate. A processed based soil erosion model was used to simulate different farming system. </p>
-</div>
-
-<div style="clear:both;"></div>
-
-<div>
-   <img align="left" width="200" src="/File/5.MTech.png" style="margin-right: 20px;">    
-    <p><strong> Hydraulic Modeling for River Discharge</strong><br>
-    This reseaerch conducted through analysis using the HEC-RAS hydraulic model to evaluate 1-D unsteady flow, focusing on two prominent rivers: Chattahoochee and Godavari. Collected and analyzed daily weather station data alongside meticulously measured river cross-sections and flow discharge. Resulted in the development of a comprehensive HEC-RAS model, contributing to a deeper understanding of hydraulic dynamics and water resource management. </p>
-</div>
-
+---
 
 # SELECTED PUBLICATIONS
 
+**[8]** **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., Molinari, R. (2023). Artificial neural network-empowered projected future rainfall Intensity-Duration-Frequency curves. *Atmospheric Research*. [doi:10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122)
 
-## Peer-reviewed
-[8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [DOI](https://doi.org/10.1016/j.atmosres.2023.107122)
+**[5]** **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D. (2023). Projected mid-century rainfall erosivity under climate change over the southeastern United States. *Science of the Total Environment*. [doi:10.1016/j.scitotenv.2022.161119](https://doi.org/10.1016/j.scitotenv.2022.161119)
 
-[7]. Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [DOI](https://doi.org/10.1016/j.agwat.2023.108385)
+**[4]** **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D. (2022). Temporal disaggregation of hourly precipitation under changing climate over the Southeast United States. *Scientific Data*, 9, 211. [doi:10.1038/s41597-022-01304-7](https://doi.org/10.1038/s41597-022-01304-7)
 
-[6]. Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [DOI](https://doi.org/10.1029/2022WR034305)
+**Under review:** Takhellambam, B.S. et al. A Bayesian framework for uncertainty quantification of rainfall IDF curves. *Atmospheric Research* (2026).
 
-[5]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected mid-century rainfall erosivity under climate change over the southeastern United States**. Science of The Total Environment. 161119. [DOI](https://doi.org/10.1016/j.scitotenv.2022.161119)
+**Under review:** Karki, R., **Takhellambam, B.S.**, Srivastava, P. Performance evaluation of gridded climate data for capturing trends and extremes over the Mid-Atlantic US. *International Journal of Climatology* (2026).
 
-[4]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Temporal disaggregation of hourly precipitation under changing climate over the Southeast United States**. Scientific Data 9, 11. [DOI](https://doi.org/10.1038/s41597-022-01304-7)
+*Full publication list → [Google Scholar](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en)*
 
-[3]. Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.S.**, Bondesan, L., 2022. **Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling**. Agricultural Water Management 273, 107877.[DOI](https://doi.org/10.1016/j.agwat.2022.107877)
+---
 
-[2]. Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Way, T.R., Sangha, L., **Takhellambam, B.S.**, Morata, G., Molinari, R., 2022. **Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield**. Journal of ASABE,65, 865–880.  [DOI](https://doi.org/10.13031/ja.15042)
+# TOOLS & DATA
 
-[1]. Kumar, H., Srivastava, P., Ortiz, B.V., Morata, G., **Takhellambam, B.S.**, Lamba, J., Bondesan, L., 2021. **Field-scale spatial and temporal soil water variability in irrigated croplands**. Transactions of the ASABE,1277–1294. [DOI](https://doi.org/10.13031/trans.14335)
+- **[PrecipTDS](https://github.com/bijoychandraAU/PrecipTDS)** — R-package for generating projected 15-minute rainfall from CMIP climate model outputs. Available open-source on GitHub.
 
-## Other publications
+- **SE US Sub-hourly Precipitation Dataset** — Temporally disaggregated, high-resolution precipitation dataset for the Southeast United States, published open-access in *Scientific Data* (2022). [doi:10.1038/s41597-022-01304-7](https://doi.org/10.1038/s41597-022-01304-7)
 
-[3] Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Lyon, S.W., Takhellambam, B.S., Morata, G., Bondesan, L., 2023. Integral Approach of Unsupervised Learning and Temporal Stability in Irrigation Management, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://elibrary.asabe.org/azdez.asp?JID=5&AID=54325&CID=oma2023&T=1)
+- **VIC + Tile Drainage Module** — Extended Variable Infiltration Capacity land surface model with integrated subsurface drainage processes for poorly drained agricultural soils *(in progress)*.
 
-[2]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern united states**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[DOI](https://doi.org/10.13031/aim.202200176)
+---
 
-[1]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://doi.org/10.13031/aim.202200175)
+# COLLABORATING INSTITUTIONS
 
-Full publication list → [Google Scholar](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en)
+University of Maryland &nbsp;·&nbsp; Purdue University &nbsp;·&nbsp; Auburn University &nbsp;·&nbsp; IIT Roorkee &nbsp;·&nbsp; ICAR NEH Region, India &nbsp;·&nbsp; Penn State University &nbsp;·&nbsp; Tokyo Institute of Technology
