@@ -24,9 +24,3 @@ title: "Honors & Awards"
 * **Travel Grant**, American Geophysical Union (AGU) Fall Meeting | 2021
 * **Competitive Selection**, Waterhackweek Workshop, University of Washington | 2020
 
----
-
-### Summary of Achievement
-* **Multi-year recognition** from the American Society of Agricultural and Biological Engineers (ASABE).
-* Consistently awarded for both **written research** and **oral communication**.
-* Secured over **$X,XXX in competitive funding** for travel and professional development.
