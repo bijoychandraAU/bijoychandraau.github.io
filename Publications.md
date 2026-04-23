@@ -22,7 +22,15 @@ title: "Publications"
 
 ## Other publications
 
+[4] Bowling, L., and B. Takhellambam, 2024, Environmental Field Skills Lab Manual, Purdue University Course Materials.
+
+[3] Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Lyon, S.W., Takhellambam, B.S., Morata, G., Bondesan, L., 2023. Integral Approach of Unsupervised Learning and Temporal Stability in Irrigation Management, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. https://doi: 10.13031/aim.202301023.
+
 [2]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern united states**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[DOI](https://doi.org/10.13031/aim.202200176)
 
 [1]. **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://doi.org/10.13031/aim.202200175)
+
+
+
+
 
