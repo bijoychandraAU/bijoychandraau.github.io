@@ -6,38 +6,30 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# Layout Settings - Aligned with custom.css selectors
+show_excerpts: true        # Enables professional article previews
+show_frame: true           # Activates the '6px solid var(--teal-border)' from your CSS
+show_sidebar: false        # Keeps the clean top-navigation look
+minimal: true              # Triggers 'header.minimal' styling for the dark teal header
 
-# Layout
-
-
-show_excerpts: TRUE        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: True             # use a dark header
-
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Research.md", title: "Research"} 
-  - {file: "Publications.md", title: "Publications"}
-  - {file: "Teaching.md", title: "Teaching"}
-  - {file: "Honors_awards.md", title: "Honors & Awards"}
-  #- {url: "File/Bijoychandra_Vitae.pdf", title: Vitae} 
+# Professional Navigation Menu
+# Reordered to follow standard academic site hierarchy
+navigation:
   - {file: "index.md", title: "Home"}
+  - {file: "Research.md", title: "Research & Service"}
+  - {file: "Publications.md", title: "Publications"}
+  - {file: "Teaching.md", title: "Teaching & Mentoring"}
+  - {file: "Honors_awards.md", title: "Honors & Awards"}
+  # - {url: "assets/Bijoychandra_Vitae.pdf", title: "CV"} 
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bijoytbl@umd.edu"}
-  - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra/"}
-  #- {title: CustomIcon, icon: File/Google_Scholar_logo.svg, url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
-  #- {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Bijoychandra-Takhellambam"}
-  #- {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
-
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+# Footer Social Links
+# Uses the --cream-muted color from your custom.css
+external:
+  - {title: Mail, icon: "fas fa-envelope", url: "mailto:bijoytbl@umd.edu"}
+  - {title: Github, icon: "fab fa-github", url: "https://github.com/bijoychandraAU"}
+  - {title: Linkedin, icon: "fab fa-linkedin", url: "https://www.linkedin.com/in/bijoychandra/"}
+  - {title: Google Scholar, icon: "fas fa-graduation-cap", url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+  - jekyll-seo-tag
