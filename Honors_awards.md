@@ -3,32 +3,24 @@ layout: page
 title: "Honors & Awards"
 ---
 
-[14]. Presentation [(Oral) Excellence Award, ASABE Annual International Meeting](https://asabe.org), Omaha, NE (2023)
+### 🏆 Distinguished National & International Awards
+* **Oral Presentation Excellence Award**, ASABE Annual International Meeting, Omaha, NE | 2023
+* **Boyd-Scott Graduate Research Award**, ASABE, Houston, TX | 2022
+* **Graduate Research Paper Award**, Association of Agricultural, Biological and Food Engineers of Indian Origin (AABFEIO), Omaha, NE | 2023
+* **Graduate Research Paper Award**, AABFEIO, ASABE Annual International Meeting, Houston, TX | 2022
+* **Alpha Epsilon**, The Honor Society of Agricultural, Food, and Biological Engineering (Member) | 2023
 
-[13]. [Graduate Research Paper Award, AABFEIO](https://asabe.org/AABFEIO), ASABE Annual International Meeting, Omaha, NE (2023)
+### 🎓 University & Departmental Honors
+* **Outstanding Doctoral Student Award**, Auburn University | 2023
+* **Outstanding Research Paper Award**, Southeastern Undergraduate Research Graduate Symposium (SUGRS), University of Alabama | 2023
+* **First Place Winner**, Graduate Research Showcase Poster Competition, Auburn University | 2022
 
-[12]. Travel Fellowship, Graduate Student Council, Auburn University, AL (2023)
+### 🎫 Fellowships & Competitive Grants
+* **Travel Fellowship**, Graduate Student Council, Auburn University | 2023
+* **Travel Fellowship**, Graduate Student Council, Auburn University | 2022
+* **National Science Foundation (NSF) Travel Grant**, HydroML Conference, Penn State University | 2022
+* **Conference Registration Waiver**, ASABE Annual International Meeting, Houston, TX | 2022
+* **Conference Registration Waiver**, HydroML Symposium, Penn State University | 2022
+* **Travel Grant**, American Geophysical Union (AGU) Fall Meeting | 2021
+* **Competitive Selection**, Waterhackweek Workshop, University of Washington | 2020
 
-[11]. Outstanding Research Paper Award, [SUGRS](https://sugrs.ua.edu/), University of Alabama (2023)
-
-[10]. [Auburn University’s Outstanding Doctoral Student Award](https://rb.gy/ddea3) (2023)
-
-[9]. [Member Alpha Epsilon honorary society](https://www.asabe.org/engage) (2023)
-
-[8]. Winner Graduate Research Showcase Poster competition, AU, AL (2022)
-
-[7]. Winner [Boyd-Scott Graduate Research Award](https://asabe.org/Boyd-Scott), Houston, TX (2022)
-
-[6]. Winner [Graduate Research Paper Award, AABFEIO, ASABE Annual International Meeting](https://asabe.org/AABFEIO), Houston, TX (2022)
-
-[5]. Registration waiver for Annual International Meeting (ASABE), Houston, TX (2022)
-
-[4]. Registration waiver for HydroML symposium, Penn State University, PA (2022)
-
-[3]. Travel Fellowship, Graduate Student Council, Auburn University, AL (2022)
-
-[2]. Travel Grant, NSF-Funded HydroML conference, Penn State University, PA (2022)
-
-[1]. Travel Grant, American Geophysical Union (AGU) Fall Meeting, Virtual (2021)
-
-[1]. Selected 5-day Waterhackweek workshop, University of Washington, Virtual (2020)
