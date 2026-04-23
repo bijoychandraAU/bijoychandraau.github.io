@@ -1,55 +1,64 @@
 ---
-title: "Teaching Experiences:"
-layout: post
-categories: media
+title: "Teaching & Mentoring"
+layout: page
 ---
-Currently, I am a Teaching Assistant for Soil Physics (undergraduate/graduate level) course. 
 
-# I. Teaching Assistant (Fall-2024):
+Professional educator dedicated to bridging the gap between theoretical soil science and practical environmental application. My teaching philosophy centers on hands-on experiential learning and the integration of data science into natural resource management.
 
-<div>
-    <img align="left" width="200" src="/File/soilphysics.jpg" style="margin-right: 20px;">
-    <p><strong> 1. Soil Physics</strong><br>
-This course focus on Fundamentals of soil physics; transport of chemicals, heat, and gases; field spatial
-variability; principles and methods of physical analysis of soils; the influence of soil physical processes
-on environmental quality and agricultural production.
+---
 
-The learning objectives:<br>
-•  To understand basic physical processes that occur in soils, including water, chemical, and heat
-transport.<br>
-• To be able to calculate key soil physical property values and soil physical process rates, when
-given appropriate input data.<br>
-• To develop knowledge and skills in the principles and methodology for assessing soil physical
-properties and processes.<br>
-• To understand and describe the principles of soil structure formation and soil health
-improvement and assessment.<br>
-• To understand the effects of soil physical properties and processes on crop production and
-environmental quality</p>
-</div>
+## 🎓 Mentoring & Student Success
+I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
 
-# Past Teaching Experiences:
+* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
+* **Ph.D. Admissions:** Guided undergraduate researchers through the application process, resulting in placements at top-tier R1 research institutions.
+* **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
 
-# II. Co-Instructor (Spring-2024):
-<div>
-    <img align="left" width="200" src="/File/NRES338.png" style="margin-right: 20px;">
-    <p><strong>1. Environmental Field Skills</strong><br>
-  This practical laboratory course seeks to provide students with firsthand experience with environmental monitoring field methodologies, using real-world events as a basis. These include of measuring stream discharge, carrying out slug tests, gathering aquatic sample data, carrying out surveys, and drawing wetlands boundaries. Using surrounding areas and watersheds as our classroom, this course aims to give students real-world experience.</p>
-</div>
+---
 
-<div style="clear:both;"></div>
+## 🏫 Teaching Experience
 
-<div>
-    <img align="left" width="200" src="/File/NRES497.PNG" style="margin-right: 20px;">
-    <p><strong>2. Senior Capstone Design</strong><br>
-    Through small group projects, students apply the multidisciplinary insights they have learned in class to investigate current environmental issues. Activities for service-learning are included in these projects, which are designed to fit into the semester. Depending on the interests of the students, topics can range from urban gardening to stormwater management. This capstone project connects academia with practical environmental practices by providing chances for professional growth, networking, and hands-on learning.</p>
-</div>
+### Current Appointment: Teaching Assistant
+**Soil Physics (Undergraduate/Graduate) | Fall 2024**
+*Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
 
+> **Key Learning Objectives:**
+> * Mastering the principles of soil structure formation and soil health assessment.
+> * Calculating physical property values and process rates from field data.
+> * Evaluating the impact of soil processes on environmental quality and agricultural yields.
 
-# III. Teaching Assistant (Fall-2021):
-<div>
-    <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
-    <p><strong> 1.R Programming for Data Science</strong><br>
-  The goal of this course is to use the R language to introduce students to data science. Additionally, it will introduce students to the concepts of reproducible research, result sharing, version control (using GitHub), and data management and modification. By the end of the course, learners need to be able to generate dynamic reports and interactive web applications for data visualization and analysis. Additionally, students ought to be able to create their own R packages, publish them on GitHub, and use literate programming to document them.</p>
-</div>
+---
 
+### Co-Instructor
+**Spring 2024**
 
+**1. Environmental Field Skills**
+A practical, field-intensive course providing firsthand experience with monitoring methodologies. I lead students in:
+* **Hydrology:** Measuring stream discharge and performing slug tests.
+* **Ecology:** Gathering aquatic samples and delineating wetland boundaries.
+* **Surveying:** Implementing real-world mapping and watershed analysis.
+
+**2. Senior Capstone Design**
+Facilitating multidisciplinary student teams as they tackle real-world environmental issues. 
+* **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
+* **Professional Growth:** Bridging academia with industry through networking and project-based deliverables.
+
+---
+
+### Teaching Assistant
+**Fall 2021**
+
+**1. R Programming for Data Science**
+Introducing students to the modern data science workflow using the R ecosystem.
+* **Reproducibility:** Teaching version control via GitHub and literate programming.
+* **Visualization:** Developing dynamic reports and interactive web applications (Shiny).
+* **Software Development:** Guiding students through the creation and documentation of custom R packages.
+
+---
+
+### Technical Expertise in Education
+| Category | Tools & Methods |
+| :--- | :--- |
+| **Field Methods** | Stream gauging, Soil sampling, Wetland delineation |
+| **Data Science** | R, GitHub, Reproducible Research (Quarto/Markdown) |
+| **Pedagogy** | Service-learning, Capstone mentorship, Lab instruction |
