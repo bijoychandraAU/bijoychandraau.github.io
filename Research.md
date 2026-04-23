@@ -17,16 +17,20 @@ The overall purpose of my research is to focus on sustainable development. The c
 
 # RESEARCH THEMES
 
-💧 Rainfall Extremes & IDF Curves
+💧 **Rainfall Extremes & IDF Curves**
+
 Projecting future rainfall intensity-duration-frequency (IDF) curves under climate change using artificial neural networks and Bayesian uncertainty quantification, with direct applications to engineering design, stormwater infrastructure, and flood risk management across the Southeast United States.
 
-🌱 Soil Erosion & Land Use
+🌱 **Soil Erosion & Land Use**
+
 Quantifying mid-century rainfall erosivity under climate change and developing Best Management Practices (BMPs) for hilly watersheds using the process-based WEPP soil erosion model across diverse farming systems.
 
-🗺️ Hydrological Modeling
+🗺️ **Hydrological Modeling**
+
 Integrating subsurface tile drainage into the Variable Infiltration Capacity (VIC) land surface model for water and nutrient management in poorly drained agricultural soils; water quality modeling with SWAT; and flood estimation with HEC-RAS.
 
-🛰️ Precision Agriculture & Remote Sensing
+🛰️ **Precision Agriculture & Remote Sensing**
+
 UAS-based crop water stress assessment and sensor-driven irrigation management for corn and soybean systems, enabling site-specific decision-making under variable field conditions and changing climate.
 
 
