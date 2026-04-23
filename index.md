@@ -6,23 +6,16 @@ categories: media
 
  <img align="left" width="200" src="/File/profile.png" style="margin-right: 20px;">
 
-**Bijoychandra S. Takhellambam** is working as a Post-Doctoral Research Assistant at [Purdue University](https://ag.purdue.edu/PI2/tbijoych). He completed his Ph.D. in Biosystem Engineering (minor in statistics) from [Auburn University](https://www.eng.auburn.edu/bsen/). He holds a Master's in Hydrology from [Indian Institute of Technology, Roorkee, India](https://hy.iitr.ac.in/). His work focuses on climate impacts on water resources, including rainfall erosivity, hydroclimatic extremes, and hydrological modeling. Past research includes *developing Best Practice Management (BMPs) using [soil erosion model](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp) for a small-hilly watershed*, *Cost-effective combination of T-head groynes for river bank protection*, and *hydraulic modeling using 1-D [Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS)](https://www.hec.usace.army.mil/software/hec-ras/) for flood discharge estimation using at-site stage information*. He is currently working on **sub-surface tile drainage intergration to [Variable Infiltration Capacity (VIC)](https://vic.readthedocs.io/en/master/Overview/ModelOverview/) model for sustainable water and nutrient mangements**. His Google Scholar page may be found [here](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en). You may reach him at [tbijoych@purdue.edu](mailto:tbijoych@purdue.edu)
+**Bijoychandra Singh Takhellambam** is a **Senior Faculty Specialist** at the [Maryland Agricultural Experiment Station (MAES)](https://maes.umd.edu/), College of Agriculture and Natural Resources, [University of Maryland](https://umd.edu/), College Park. He completed his **Ph.D. in Biosystem Engineering (Statistics Minor)** from [Auburn University](https://www.eng.auburn.edu/bsen/), where his dissertation examined *Climate Change Implications on Rainfall Erosivity and Intensity-Duration-Frequency (IDF) Curves over the Southeast United States*. He holds a **Master's in Hydrology** (First Class with Distinction) from the [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/), and a **Bachelor's in Agricultural Engineering** from [Central Agricultural University (CAEPHT)](https://caephtcau.nic.in/), India.
 
-He likes activities and sports in his spare time, including soccer, cricket, table tennis, volleyball, and hiking.
+His research focuses on **hydrology, climate change impacts on water resources, and hydrological modeling**, spanning rainfall erosivity, hydroclimatic extremes, and sub-surface drainage integration. He develops tools and models to address water and nutrient management challenges, including the [PrecipTDS](https://github.com/bijoychandraAU/PrecipTDS) R-package for generating projected high-temporal-resolution rainfall data. He is currently involved in work on **sub-surface tile drainage integration into the [Variable Infiltration Capacity (VIC)](https://vic.readthedocs.io/en/master/Overview/ModelOverview/) land surface model** for sustainable water and nutrient management in poorly drained agricultural soils of the U.S. Corn Belt.
 
-# EDUCATION
+Prior to joining UMD, he served as a **Postdoctoral Research Assistant** at [Purdue University](https://ag.purdue.edu/PI2/tbijoych) (2023–2026), where he led hydrological model development, crop water stress assessment using UAS imagery, and irrigation management strategies for corn and soybean. Earlier research includes developing Best Management Practices (BMPs) using the [WEPP soil erosion model](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp), cost-effective river bank protection using T-head groynes, and 1-D hydraulic modeling with [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/) for flood discharge estimation.
 
-- **Ph.D. in Biosystem Engineering (Statistics Minor)**
-  [Auburn University](https://www.eng.auburn.edu/bsen/), Alabama, US
-  (2023)
+He has served as a **Co-Instructor** for environmental field skills and senior capstone courses at Purdue, and holds teaching certifications in college pedagogy. He is an active reviewer for journals including *Science of the Total Environment*, *Journal of Hydrology*, *Scientific Data*, and others.
 
-- **Master in Hydrology (Surface Water)**
-  [Indian Institute of Technology (IIT), Roorkee](https://hy.iitr.ac.in/), India
-  (2016)
+His Google Scholar page may be found [here](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en). You may reach him at [bijoytbl@umd.edu](mailto:bijoytbl@umd.edu) or by phone at +1 (301) 405-9497.
 
-- **Bachelor in Agricultural Engineering**
-  [CAEPHT- Central Agricultural University](https://caephtcau.nic.in/), Sikkim, India
-  (2014)
 
 
  
