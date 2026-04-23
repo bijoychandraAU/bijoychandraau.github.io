@@ -18,4 +18,18 @@ His Google Scholar page may be found [here](https://scholar.google.com/citations
 
 
 
- 
+ # EDUCATION
+
+|**Education**                                      | **University/Institute**                             | **Year**|
+|---------------------------------------------------|------------------------------------------------------|--------|
+| Ph.D. in Biosystem Engineering (Statistics Minor) | [Auburn University, Alabama, US](https://www.eng.auburn.edu/bsen/)                       | 2023 (July)    |
+| Master in Hydrology (Surface Water)               | [Indian Institute of Technology (IIT), Roorkee, India](https://hy.iitr.ac.in/) | 2016    |
+| Bachelor in Agricultural Engineering               | [Central Agricultural University, Imphal, India](https://caephtcau.nic.in/)       | 2014    |
+
+# PROFESSIONAL APPOINTMENTS
+
+|**Position**                                      | **University/Institute**                             | **Year**|
+|---------------------------------------------------|------------------------------------------------------|--------|
+| Senior Faculty Specialist      	    | [Maryland Agricultural Experiment Station, College of Agriculture and Natural Resources, University of Maryland](https://agnr.umd.edu/home/) | Jan 2026 – Present |
+| Postdoctoral Research Assistant   	     | [Department of Agronomy](https://ag.purdue.edu/department/agry/)) & [Natural Resources and Environmental Science (NRES)](https://ag.purdue.edu/department/nres/index.html), Purdue University |  Oct 2023 – Jan 2026 | 
+| Research Associate 	    | [Division of Natural Resource Management, Indian Council of Agricultural Research (ICAR)](http://www.icarneh.ernet.in/) | Aug 2017 – Nov 2018 |
