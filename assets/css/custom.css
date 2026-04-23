@@ -1,0 +1,338 @@
+/* ============================================================
+   Bijoychandra Takhellambam — Jekyll Site Custom Theme
+   Place at: assets/css/custom.css
+   Then reference in your layout's <head>:
+     <link rel="stylesheet" href="/assets/css/custom.css">
+   Or add to _config.yml if your theme supports custom_css:
+     custom_css: custom
+   ============================================================ */
+
+/* --- Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+
+/* -------------------------------------------------------
+   COLOUR PALETTE
+   --forest-dark   : page background (deep forest)
+   --forest-mid    : header / sidebar / frame
+   --forest-light  : card surfaces, nav hover
+   --forest-accent : links, highlights, rule lines
+   --gold          : name / accent contrast
+   --cream         : body text on dark backgrounds
+   --off-white     : content area background (parchment)
+   ------------------------------------------------------- */
+:root {
+  --forest-dark:   #1a2e1a;
+  --forest-mid:    #223322;
+  --forest-light:  #2e4a2e;
+  --forest-accent: #4a7c59;
+  --forest-border: #3a5c3a;
+  --gold:          #c9a84c;
+  --gold-light:    #e8d08a;
+  --cream:         #f0ece0;
+  --cream-muted:   #c8c4b4;
+  --off-white:     #f7f5ef;
+  --text-dark:     #1f2a1f;
+  --text-mid:      #3a4a3a;
+  --text-muted:    #6b7c6b;
+}
+
+/* -------------------------------------------------------
+   BASE — page background & typography
+   ------------------------------------------------------- */
+html, body {
+  background-color: var(--forest-dark) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 400;
+  color: var(--text-dark);
+}
+
+/* -------------------------------------------------------
+   HEADER / SITE TITLE AREA
+   ------------------------------------------------------- */
+header,
+.site-header,
+header.minimal,
+body > header {
+  background-color: var(--forest-mid) !important;
+  border-bottom: 2px solid var(--gold) !important;
+  padding: 1.2rem 2rem !important;
+}
+
+/* Site name / title */
+header a.site-title,
+header .site-title,
+header h1,
+header h1 a {
+  font-family: 'Lora', Georgia, serif !important;
+  color: var(--gold) !important;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.02em;
+  text-decoration: none !important;
+}
+
+/* Subtitle / description under name */
+header .site-description,
+header p {
+  color: var(--cream-muted) !important;
+  font-size: 0.85rem !important;
+  font-weight: 300 !important;
+  margin-top: 0.15rem !important;
+}
+
+/* -------------------------------------------------------
+   NAVIGATION
+   ------------------------------------------------------- */
+nav,
+header nav,
+.navigation {
+  background-color: var(--forest-mid) !important;
+}
+
+nav a,
+.navigation a,
+header nav a {
+  color: var(--cream) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 0.88rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  padding: 0.3rem 0.8rem !important;
+  border-radius: 4px !important;
+  transition: background 0.2s, color 0.2s !important;
+  text-decoration: none !important;
+}
+
+nav a:hover,
+.navigation a:hover,
+header nav a:hover {
+  background-color: var(--forest-accent) !important;
+  color: #fff !important;
+}
+
+nav a.active,
+.navigation a.active {
+  color: var(--gold) !important;
+  border-bottom: 2px solid var(--gold) !important;
+}
+
+/* -------------------------------------------------------
+   MAIN CONTENT AREA
+   ------------------------------------------------------- */
+main,
+.content,
+article,
+.page-content,
+.post-content,
+#content,
+.wrapper {
+  background-color: var(--off-white) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.35) !important;
+  padding: 2.5rem 3rem !important;
+  margin: 2rem auto !important;
+  max-width: 860px !important;
+  color: var(--text-dark) !important;
+}
+
+/* -------------------------------------------------------
+   HEADINGS
+   ------------------------------------------------------- */
+h1, h2, h3, h4 {
+  font-family: 'Lora', Georgia, serif !important;
+  color: var(--forest-light) !important;
+}
+
+h1 {
+  font-size: 1.9rem !important;
+  border-bottom: 2px solid var(--gold) !important;
+  padding-bottom: 0.4rem !important;
+  margin-bottom: 1rem !important;
+}
+
+h2 {
+  font-size: 1.4rem !important;
+  color: var(--forest-accent) !important;
+  margin-top: 2rem !important;
+}
+
+h3 {
+  font-size: 1.1rem !important;
+  color: var(--text-mid) !important;
+}
+
+/* -------------------------------------------------------
+   BODY TEXT
+   ------------------------------------------------------- */
+p, li {
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 0.97rem !important;
+  line-height: 1.8 !important;
+  color: var(--text-dark) !important;
+}
+
+/* -------------------------------------------------------
+   LINKS
+   ------------------------------------------------------- */
+a {
+  color: var(--forest-accent) !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid transparent !important;
+  transition: border-color 0.15s, color 0.15s !important;
+}
+
+a:hover {
+  color: var(--forest-dark) !important;
+  border-bottom-color: var(--gold) !important;
+}
+
+/* -------------------------------------------------------
+   HORIZONTAL RULES
+   ------------------------------------------------------- */
+hr {
+  border: none !important;
+  border-top: 1.5px solid var(--gold) !important;
+  opacity: 0.4 !important;
+  margin: 2rem 0 !important;
+}
+
+/* -------------------------------------------------------
+   TABLES  (impact at a glance, publications, etc.)
+   ------------------------------------------------------- */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.93rem !important;
+  margin: 1.2rem 0 !important;
+}
+
+thead tr {
+  background-color: var(--forest-light) !important;
+  color: var(--cream) !important;
+}
+
+th {
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 500 !important;
+  padding: 0.6rem 1rem !important;
+  text-align: center !important;
+  letter-spacing: 0.03em !important;
+}
+
+td {
+  padding: 0.55rem 1rem !important;
+  text-align: center !important;
+  border-bottom: 0.5px solid #d8d4c8 !important;
+  color: var(--text-dark) !important;
+}
+
+tr:nth-child(even) td {
+  background-color: #f0ede4 !important;
+}
+
+/* -------------------------------------------------------
+   BLOCKQUOTES  (used in some Jekyll themes for callouts)
+   ------------------------------------------------------- */
+blockquote {
+  border-left: 4px solid var(--forest-accent) !important;
+  background: #eef4ec !important;
+  margin: 1.5rem 0 !important;
+  padding: 0.8rem 1.2rem !important;
+  border-radius: 0 6px 6px 0 !important;
+  color: var(--text-mid) !important;
+  font-style: italic !important;
+}
+
+/* -------------------------------------------------------
+   CODE / MONOSPACE
+   ------------------------------------------------------- */
+code, pre {
+  font-family: 'Courier New', monospace !important;
+  background: #e8ede4 !important;
+  color: var(--forest-dark) !important;
+  padding: 0.15rem 0.4rem !important;
+  border-radius: 3px !important;
+  font-size: 0.88rem !important;
+}
+
+/* -------------------------------------------------------
+   FOOTER / SOCIAL ICONS
+   ------------------------------------------------------- */
+footer,
+.site-footer {
+  background-color: var(--forest-mid) !important;
+  border-top: 2px solid var(--forest-border) !important;
+  padding: 1.2rem 2rem !important;
+  text-align: center !important;
+}
+
+footer a,
+.site-footer a {
+  color: var(--cream-muted) !important;
+  margin: 0 0.6rem !important;
+  font-size: 1rem !important;
+  transition: color 0.2s !important;
+  border-bottom: none !important;
+}
+
+footer a:hover,
+.site-footer a:hover {
+  color: var(--gold) !important;
+}
+
+footer p,
+.site-footer p {
+  color: var(--cream-muted) !important;
+  font-size: 0.78rem !important;
+  margin-top: 0.5rem !important;
+}
+
+/* -------------------------------------------------------
+   FRAME (show_frame: true in config adds a gray frame)
+   Override to forest tones
+   ------------------------------------------------------- */
+body.show-frame,
+.frame {
+  border: 6px solid var(--forest-border) !important;
+}
+
+/* -------------------------------------------------------
+   POST / ARTICLE EXCERPTS on home page
+   ------------------------------------------------------- */
+.post-excerpt,
+.excerpt {
+  border-left: 3px solid var(--forest-accent) !important;
+  padding-left: 0.8rem !important;
+  color: var(--text-muted) !important;
+  font-size: 0.92rem !important;
+}
+
+/* -------------------------------------------------------
+   IMAGES  (research experience thumbnails, profile photo)
+   ------------------------------------------------------- */
+article img,
+.post-content img {
+  border-radius: 6px !important;
+  box-shadow: 0 2px 10px rgba(26,46,26,0.18) !important;
+}
+
+/* -------------------------------------------------------
+   RESPONSIVE
+   ------------------------------------------------------- */
+@media (max-width: 700px) {
+  main,
+  .content,
+  article,
+  .page-content,
+  .post-content,
+  .wrapper {
+    padding: 1.4rem 1.2rem !important;
+    margin: 0.8rem !important;
+    border-radius: 4px !important;
+  }
+
+  header {
+    padding: 0.9rem 1rem !important;
+  }
+}
