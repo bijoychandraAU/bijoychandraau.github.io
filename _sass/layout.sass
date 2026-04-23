@@ -1,28 +1,36 @@
 body
   display: flex
   flex-direction: column
+  min-height: 100vh  // Ensures footer stays at the bottom
 
 article
   flex-grow: 1
+  width: 100%
+  box-sizing: border-box
 
 body > header, body > footer
   display: flex
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
+  width: 100%
+  box-sizing: border-box
 
 body > header, body > article, body > footer
-  padding: 1.5em
+  padding: 1.5em 4rem // Increased side padding for a professional "centered" look
 
 article header
-  margin-bottom: 1.5em
+  margin-bottom: 2em
 
 article header h1
-  font-size: 1.7em
-  margin: 0 0 .1em
+  font-size: 2.2em // Slightly larger for faculty name prominence
+  margin: 0 0 .2em
 
 nav
-  margin: .5em -1.2em
+  display: flex
+  flex-wrap: wrap
+  margin: .5em 0
 
 nav a
-  margin: .5em 1.2em
+  margin-right: 1.5em // Spacing between menu items
+  text-decoration: none
