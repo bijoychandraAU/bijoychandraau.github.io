@@ -43,7 +43,7 @@ header .site-title,
 header h1,
 header h1 a {
   font-family: 'Lora', Georgia, serif !important;
-  color: var(--silver-light) !important;
+  color: #ffffff !important;
   font-size: 1.5rem !important;
   font-weight: 600 !important;
   letter-spacing: 0.02em;
