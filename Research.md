@@ -109,3 +109,53 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 ---
 
 
+---
+
+# PROFESSIONAL SERVICE & AFFILIATIONS
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+
+  <div style="flex: 1; min-width: 300px;">
+    ### 🤝 Professional Memberships
+    * **ASABE** | American Society of Agricultural and Biological Engineers
+    * **AGU** | American Geophysical Union
+    * **AWRA** | American Water Resources Association (National & Alabama Sections)
+    * **AABFEIO** | Association of Agricultural, Biological, and Food Engineers of Indian Origin
+    * **ASCE** | American Society of Civil Engineers
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    ### 🏛️ Leadership & Outreach
+    **NRES Ambassador Mentor | Purdue University**
+    * Lead recruitment and mentoring for undergraduate ambassador students.
+    * Strategize and execute outreach programs for the Natural Resources & Environmental Sciences department.
+  </div>
+
+</div>
+
+---
+
+### 🔍 Journal Reviewer
+*Consistently contributing to the peer-review process for high-impact journals in hydrology, data science, and environmental modeling:*
+
+<div style="font-size: 0.9em; column-count: 2; column-gap: 40px; color: #444;">
+  <ul style="margin-top: 0;">
+    <li>CATENA</li>
+    <li>Scientific Data (Nature Portfolio)</li>
+    <li>Science of the Total Environment</li>
+    <li>Journal of Hydrology: Regional Studies</li>
+    <li>Transactions of the ASABE</li>
+    <li>Geoscientific Model Development</li>
+    <li>HESS (Hydrology and Earth System Sciences)</li>
+    <li>Agricultural Systems</li>
+    <li>Computers and Electronics in Agriculture</li>
+    <li>Frontier in Artificial Intelligence</li>
+    <li>Modeling Earth Systems and Environment</li>
+    <li>Intl. Soil and Water Conservation Research</li>
+    <li>Groundwater for Sustainable Development</li>
+    <li>Applied Engineering in Agriculture</li>
+    <li>Stochastic Env. Research & Risk Assessment</li>
+    <li>Atmosfera</li>
+  </ul>
+</div>
+
