@@ -58,6 +58,201 @@
   --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* ── Dark Mode Token Override ── */
+/* Applied when <html data-theme="dark"> or body has class .dark-theme */
+[data-theme="dark"],
+body.dark-theme {
+  --paper:         #0f1117;
+  --paper-warm:    #161a24;
+  --paper-cold:    #1a1f2e;
+  --paper-ruled:   rgba(240, 237, 230, 0.04);
+
+  --ink:           #f0ede6;
+  --ink-soft:      #d8d3c8;
+  --ink-faint:     #a8a39e;
+
+  --red:           #e05c4b;
+  --red-deep:      #c0392b;
+  --red-glow:      rgba(224, 92, 75, 0.15);
+
+  --slate:         #8fa8e8;
+  --slate-light:   #a8bfef;
+  --slate-pale:    #1e2a4a;
+
+  --gold:          #d4ac6e;
+  --gold-light:    #e8c490;
+  --gold-pale:     #1e1608;
+
+  --text-primary:  #f0ede6;
+  --text-secondary:#c8c3b8;
+  --text-muted:    #8a8580;
+  --text-ghost:    #4a4845;
+
+  --border-fine:   1px solid rgba(240, 237, 230, 0.1);
+  --border-mid:    1px solid rgba(240, 237, 230, 0.18);
+  --border-accent: 2px solid var(--red);
+}
+
+/* Header in dark mode */
+[data-theme="dark"] header,
+[data-theme="dark"] .site-header,
+body.dark-theme header {
+  background-color: #07080b !important;
+}
+
+/* Cards in dark mode */
+[data-theme="dark"] .paper,
+[data-theme="dark"] .publication,
+body.dark-theme .paper,
+body.dark-theme .publication {
+  background: rgba(255, 255, 255, 0.04) !important;
+}
+
+/* Tables in dark mode */
+[data-theme="dark"] thead tr,
+body.dark-theme thead tr {
+  background-color: #07080b !important;
+}
+
+[data-theme="dark"] tr:nth-child(even) td,
+body.dark-theme tr:nth-child(even) td {
+  background-color: #1a1608 !important;
+}
+
+[data-theme="dark"] tr:hover td,
+body.dark-theme tr:hover td {
+  background-color: var(--slate-pale) !important;
+}
+
+/* Blockquote in dark mode */
+[data-theme="dark"] blockquote,
+body.dark-theme blockquote {
+  background: linear-gradient(to right, rgba(30,22,8,0.7), transparent) !important;
+}
+
+/* Code in dark mode */
+[data-theme="dark"] code,
+body.dark-theme code {
+  background: #1a1f2e !important;
+  border-color: rgba(143, 168, 232, 0.2) !important;
+}
+
+/* Footer in dark mode */
+[data-theme="dark"] footer,
+[data-theme="dark"] .site-footer,
+body.dark-theme footer,
+body.dark-theme .site-footer {
+  background-color: #07080b !important;
+}
+
+/* ── Theme Toggle Widget (add to your nav HTML) ──
+   Usage: drop this button anywhere in your header nav markup.
+   Pair with the JS snippet at the bottom of this file.
+
+   <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+     <span class="toggle-track">
+       <span class="toggle-knob"></span>
+     </span>
+     <span class="toggle-label"></span>
+   </button>
+── */
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.theme-toggle:hover {
+  background: rgba(255,255,255,0.07);
+}
+
+.toggle-track {
+  width: 38px;
+  height: 20px;
+  border-radius: 10px;
+  background: var(--text-muted);
+  position: relative;
+  transition: background 0.3s;
+  display: block;
+  flex-shrink: 0;
+}
+
+[data-theme="dark"] .toggle-track,
+body.dark-theme .toggle-track {
+  background: var(--gold);
+}
+
+.toggle-knob {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #ffffff;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
+  display: block;
+}
+
+[data-theme="dark"] .toggle-knob,
+body.dark-theme .toggle-knob {
+  transform: translateX(18px);
+}
+
+.toggle-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-ghost);
+}
+
+.toggle-label::before {
+  content: 'Light';
+}
+
+[data-theme="dark"] .toggle-label::before,
+body.dark-theme .toggle-label::before {
+  content: 'Dark';
+}
+
+/* ── Theme Toggle JS (paste into your site's main JS or a <script> tag) ──
+
+  const btn  = document.getElementById('themeToggle');
+  const root = document.documentElement; // or document.body for body.dark-theme approach
+  const saved = localStorage.getItem('theme');
+  if (saved) root.setAttribute('data-theme', saved);
+
+  btn.addEventListener('click', () => {
+    const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+
+── */
+
+/* ── Smooth transitions when theme switches ── */
+html, body,
+header, .site-header,
+main, .content, article, .page-content, .post-content, .wrapper,
+footer, .site-footer,
+.paper, .publication,
+table, th, td,
+blockquote, code, pre,
+a, h1, h2, h3, h4, p, li {
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease,
+    border-color 0.3s ease !important;
+}
+
 /* ── Global Reset & Base ── */
 *, *::before, *::after {
   box-sizing: border-box;
