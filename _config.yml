@@ -20,7 +20,7 @@ navigation:
   #- {file: "Publications.md", title: "Publications"}
   - {file: "Teaching.md", title: "Teaching & Mentoring"}
   - {file: "Honors_awards.md", title: "Honors & Awards"}
-  # - {url: "assets/Bijoychandra_Vitae.pdf", title: "CV"} 
+  - {url: "File/Bijoychandra_CV.pdf", title: "CV"} 
 
 # Footer Social Links
 # Uses the --cream-muted color from your custom.css
