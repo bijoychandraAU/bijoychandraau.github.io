@@ -1,34 +1,30 @@
 title: "Bijoychandra Takhellambam"
 author: "Bijoychandra S. Takhellambam"
 description: "University of Maryland"
+url: "https://bijoychandraAU.github.io"
+baseurl: ""                          # "" if at root, "/reponame" if in a subfolder
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout Settings - Aligned with custom.css selectors
-show_excerpts: true        # Enables professional article previews
-show_frame: true           # Activates the '6px solid var(--teal-border)' from your CSS
-show_sidebar: false        # Keeps the clean top-navigation look
-minimal: true              # Triggers 'header.minimal' styling for the dark teal header
+show_excerpts: true
+show_frame: true
+show_sidebar: false
+minimal: true
 
-# Professional Navigation Menu
-# Reordered to follow standard academic site hierarchy
 navigation:
-  - {file: "index.md", title: "Home"}
+  - {file: "index.md",    title: "Home"}
   - {file: "Research.md", title: "Research & Service"}
-  #- {file: "Publications.md", title: "Publications"}
   - {file: "Teaching.md", title: "Teaching & Mentoring"}
-  - {file: "Honors_awards.md", title: "Honors & Awards"}
-  - {url: "File/Bijoychandra_CV.pdf", title: "CV"} 
+  - {file: "awards.md",   title: "Honors & Awards"}
+  - {url: "/File/Bijoychandra_CV.pdf", title: "CV"}
 
-# Footer Social Links
-# Uses the --cream-muted color from your custom.css
 external:
-  - {title: Mail, icon: "fas fa-envelope", url: "mailto:bijoytbl@umd.edu"}
-  - {title: Github, icon: "fab fa-github", url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: "fab fa-linkedin", url: "https://www.linkedin.com/in/bijoychandra/"}
-  - {title: Google Scholar, icon: "fas fa-graduation-cap", url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
+  - {title: Mail,          icon: "fas fa-envelope",    url: "mailto:bijoytbl@umd.edu"}
+  - {title: Github,        icon: "fab fa-github",      url: "https://github.com/bijoychandraAU"}
+  - {title: Linkedin,      icon: "fab fa-linkedin",    url: "https://www.linkedin.com/in/bijoychandra/"}
+  - {title: Google Scholar,icon: "fas fa-graduation-cap", url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
 
 plugins:
   - jekyll-feed
