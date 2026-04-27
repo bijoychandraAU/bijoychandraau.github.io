@@ -1,109 +1,243 @@
 /* ============================================================
-   Bijoychandra Takhellambam — Jekyll Site Custom Theme
-   Slate Blue Edition
+   Bijoychandra Takhellambam — Research Site
+   "Ink & Observatory" Edition
+   ── A scholarly editorial theme built for serious research ──
    Place at: assets/css/custom.css
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 
+/* ── Design Token System ── */
 :root {
-  /* Updated Background Color */
-  --bg-main:       #d7dbce; 
-  
-  /* Brand Colors */
-  --teal-dark:     #0d2626;
-  --teal-mid:      #123030;
-  --teal-light:    #1a4444;
-  --teal-accent:   #2a7a7a;
-  --teal-border:   #255555;
-  
-  /* UI Accents */
-  --silver:        #a8c4c4;
-  --silver-light:  #ccdede;
-  --cream:         #eef4f4;
-  --cream-muted:   #b0c8c8;
-  
-  /* Text & Contrast */
-  --text-dark:     #0f2020;
-  --text-mid:      #2a4040;
-  --text-muted:    #5a7878;
+  /* Foundation */
+  --ink:           #0e0f13;
+  --ink-soft:      #1c1e26;
+  --ink-faint:     #2b2f3e;
+
+  /* Paper & Surface */
+  --paper:         #f5f2eb;
+  --paper-warm:    #ede9df;
+  --paper-cold:    #eef0f5;
+  --paper-ruled:   rgba(60, 55, 45, 0.07);
+
+  /* Accent — Vermilion Science */
+  --red:           #c0392b;
+  --red-deep:      #922b21;
+  --red-glow:      rgba(192, 57, 43, 0.12);
+
+  /* Secondary — Slate Blue */
+  --slate:         #2c3e6e;
+  --slate-light:   #3d5491;
+  --slate-pale:    #d4daf0;
+
+  /* Muted Metallics */
+  --gold:          #b08d57;
+  --gold-light:    #d4ac6e;
+  --gold-pale:     #f0e9d6;
+
+  /* Type Scale */
+  --text-primary:  #1a1814;
+  --text-secondary:#3d3a35;
+  --text-muted:    #7a7570;
+  --text-ghost:    #b0aba5;
+
+  /* Geometry */
+  --border-fine:   1px solid rgba(30, 28, 22, 0.15);
+  --border-mid:    1px solid rgba(30, 28, 22, 0.25);
+  --border-accent: 2px solid var(--red);
+
+  /* Rhythm */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ── Global Reset & Base ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
 }
 
 html, body {
-  background-color: var(--bg-main) !important;
-  font-family: 'DM Sans', sans-serif !important;
+  background-color: var(--paper) !important;
+  font-family: 'Crimson Pro', Georgia, serif !important;
   font-weight: 400;
-  color: var(--text-dark);
+  font-size: 1.05rem;
+  color: var(--text-primary) !important;
   margin: 0;
   padding: 0;
+  /* Subtle paper texture via SVG noise */
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E") !important;
+  background-size: 300px 300px !important;
 }
 
-/* Header Section */
+/* ── Ruled-line rhythm (visible on long pages) ── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 27px,
+    var(--paper-ruled) 27px,
+    var(--paper-ruled) 28px
+  );
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+/* ── Header ── */
 header,
 .site-header,
 header.minimal,
 body > header {
-  background-color: var(--teal-mid) !important;
-  border-bottom: 2px solid var(--silver) !important;
-  padding: 1.2rem 2rem !important;
+  background-color: var(--ink) !important;
+  border-bottom: 3px solid var(--red) !important;
+  padding: 0 !important;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle diagonal grid on header */
+header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(
+      45deg,
+      rgba(255,255,255,0.015) 0px,
+      rgba(255,255,255,0.015) 1px,
+      transparent 1px,
+      transparent 40px
+    );
+  pointer-events: none;
+}
+
+.site-header-inner,
+header > .wrapper,
+header > div {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 1.4rem 3rem !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
 }
 
 header a.site-title,
 header .site-title,
 header h1,
 header h1 a {
-  font-family: 'Lora', Georgia, serif !important;
+  font-family: 'Playfair Display', Georgia, serif !important;
   color: #ffffff !important;
-  font-size: 1.5rem !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.02em;
+  font-size: 1.35rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.01em !important;
   text-decoration: none !important;
+  line-height: 1.2 !important;
+  /* Small red rule under name */
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  position: relative !important;
+}
+
+header a.site-title::after,
+header h1 a::after {
+  content: '';
+  display: block;
+  width: 2rem;
+  height: 2px;
+  background: var(--red);
+  margin-top: 0.35rem;
 }
 
 header .site-description,
 header p {
-  color: var(--cream-muted) !important;
-  font-size: 0.85rem !important;
-  font-weight: 300 !important;
-  margin-top: 0.15rem !important;
+  color: var(--text-ghost) !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.68rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  margin-top: 0.3rem !important;
 }
 
-/* Navigation */
+/* ── Navigation ── */
 nav,
 header nav,
 .navigation {
-  background-color: var(--teal-mid) !important;
+  background-color: transparent !important;
+  display: flex !important;
+  gap: 0.2rem !important;
+  align-items: center !important;
 }
 
 nav a,
 .navigation a,
 header nav a {
-  color: var(--cream) !important;
-  font-family: 'DM Sans', sans-serif !important;
-  font-size: 0.88rem !important;
+  color: var(--text-ghost) !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.72rem !important;
   font-weight: 400 !important;
-  letter-spacing: 0.04em !important;
+  letter-spacing: 0.1em !important;
   text-transform: uppercase !important;
-  padding: 0.3rem 0.8rem !important;
-  border-radius: 4px !important;
-  transition: background 0.2s, color 0.2s !important;
+  padding: 0.45rem 0.9rem !important;
+  border-radius: 2px !important;
+  transition: color 0.2s var(--ease-out), background 0.2s var(--ease-out) !important;
   text-decoration: none !important;
+  border-bottom: none !important;
+  position: relative !important;
+}
+
+nav a::after,
+.navigation a::after,
+header nav a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0.9rem;
+  right: 0.9rem;
+  height: 1px;
+  background: var(--red);
+  transform: scaleX(0);
+  transition: transform 0.25s var(--ease-out);
 }
 
 nav a:hover,
 .navigation a:hover,
 header nav a:hover {
-  background-color: var(--teal-accent) !important;
-  color: #fff !important;
+  color: #ffffff !important;
+  background-color: rgba(255,255,255,0.06) !important;
+  border-bottom: none !important;
+}
+
+nav a:hover::after,
+.navigation a:hover::after,
+header nav a:hover::after {
+  transform: scaleX(1);
 }
 
 nav a.active,
 .navigation a.active {
-  color: var(--silver-light) !important;
-  border-bottom: 2px solid var(--silver-light) !important;
+  color: var(--gold-light) !important;
+  border-bottom: none !important;
 }
 
-/* Main Content Area */
+/* ── Page Layout Wrapper ── */
 main,
 .content,
 article,
@@ -111,164 +245,572 @@ article,
 .post-content,
 #content,
 .wrapper {
-  background-color: var(--bg-main) !important; /* Set to your requested color */
+  background-color: transparent !important;
   border-radius: 0 !important;
   box-shadow: none !important;
-  padding: 2.5rem 4rem !important;
-  margin: 0 !important;
-  max-width: 100% !important;
+  padding: 3.5rem 3rem 4rem !important;
+  margin: 0 auto !important;
+  max-width: 860px !important;
   width: 100% !important;
-  color: var(--text-dark) !important;
+  color: var(--text-primary) !important;
+  position: relative;
+  z-index: 1;
 }
 
-/* Typography */
-h1, h2, h3, h4 {
-  font-family: 'Lora', Georgia, serif !important;
-  color: var(--teal-light) !important;
-}
+/* ── Typography System ── */
 
+/* Chapter/section number ornament before h1 */
 h1 {
-  font-size: 1.9rem !important;
-  border-bottom: 2px solid var(--teal-accent) !important;
-  padding-bottom: 0.4rem !important;
-  margin-bottom: 1rem !important;
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-size: 2.4rem !important;
+  font-weight: 900 !important;
+  color: var(--ink) !important;
+  line-height: 1.15 !important;
+  letter-spacing: -0.02em !important;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.25rem !important;
+  margin-top: 0 !important;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  width: 3.5rem;
+  height: 3px;
+  background: linear-gradient(90deg, var(--red), var(--gold));
+  margin-top: 0.7rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
-  font-size: 1.4rem !important;
-  color: var(--teal-accent) !important;
-  margin-top: 2rem !important;
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-size: 1.55rem !important;
+  font-weight: 700 !important;
+  font-style: italic !important;
+  color: var(--ink-soft) !important;
+  margin-top: 3rem !important;
+  margin-bottom: 0.75rem !important;
+  padding-left: 0 !important;
+  border-left: none !important;
+  /* Hanging double-dash ornament */
+  position: relative !important;
+}
+
+h2::before {
+  content: '§';
+  font-style: normal;
+  font-size: 0.85rem;
+  color: var(--red);
+  margin-right: 0.6rem;
+  vertical-align: middle;
+  opacity: 0.8;
 }
 
 h3 {
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.82rem !important;
+  font-weight: 700 !important;
+  color: var(--text-muted) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.12em !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+h4 {
+  font-family: 'Crimson Pro', Georgia, serif !important;
   font-size: 1.1rem !important;
-  color: var(--text-mid) !important;
+  font-weight: 600 !important;
+  color: var(--slate) !important;
+  margin-top: 1.5rem !important;
 }
 
-p, li {
-  font-family: 'DM Sans', sans-serif !important;
-  font-size: 0.97rem !important;
+p {
+  font-family: 'Crimson Pro', Georgia, serif !important;
+  font-size: 1.13rem !important;
+  line-height: 1.85 !important;
+  color: var(--text-secondary) !important;
+  margin-bottom: 1.1rem !important;
+  /* Optical margin alignment */
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Drop cap on first paragraph after h1 */
+h1 + p::first-letter,
+h1::after + p::first-letter {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.8em;
+  font-weight: 900;
+  float: left;
+  line-height: 0.75;
+  margin-right: 0.1em;
+  margin-top: 0.1em;
+  color: var(--ink);
+}
+
+li {
+  font-family: 'Crimson Pro', Georgia, serif !important;
+  font-size: 1.1rem !important;
   line-height: 1.8 !important;
-  color: var(--text-dark) !important;
+  color: var(--text-secondary) !important;
 }
 
+ul li::marker {
+  color: var(--red);
+  content: '▸ ';
+}
+
+ol {
+  counter-reset: research-counter;
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+ol li {
+  counter-increment: research-counter;
+  padding-left: 2.5rem;
+  position: relative;
+}
+
+ol li::before {
+  content: counter(research-counter, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--red);
+  font-weight: 700;
+  line-height: 1.85;
+  letter-spacing: 0.05em;
+}
+
+/* ── Links ── */
 a {
-  color: var(--teal-accent) !important;
+  color: var(--slate) !important;
   text-decoration: none !important;
-  border-bottom: 1px solid transparent !important;
-  transition: border-color 0.15s, color 0.15s !important;
+  border-bottom: 1px solid var(--slate-pale) !important;
+  transition: color 0.15s, border-color 0.15s !important;
+  padding-bottom: 0.05em;
 }
 
 a:hover {
-  color: var(--teal-dark) !important;
-  border-bottom-color: var(--teal-accent) !important;
+  color: var(--red) !important;
+  border-bottom-color: var(--red) !important;
 }
 
+/* ── Divider ── */
 hr {
   border: none !important;
-  border-top: 1.5px solid var(--teal-accent) !important;
-  opacity: 0.4 !important;
-  margin: 2rem 0 !important;
+  margin: 3rem 0 !important;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: center;
 }
 
-/* Tables */
+hr::before,
+hr::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--text-ghost), transparent);
+}
+
+/* Decorative centered asterism */
+hr::before {
+  content: '✦';
+  flex: none;
+  font-size: 0.7rem;
+  color: var(--gold);
+  line-height: 1;
+}
+
+/* Hack: override with a proper version */
+hr {
+  content: '' !important;
+  position: relative !important;
+  height: 1.5rem !important;
+  overflow: visible !important;
+}
+
+hr::after {
+  content: '✦' !important;
+  position: absolute !important;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  font-size: 0.75rem !important;
+  color: var(--gold) !important;
+  background: var(--paper) !important;
+  padding: 0 0.75rem !important;
+}
+
+/* ── Blockquotes ── */
+blockquote {
+  border-left: 3px solid var(--gold) !important;
+  border-right: none !important;
+  background: linear-gradient(to right, var(--gold-pale), transparent) !important;
+  margin: 2.5rem 0 2.5rem 0 !important;
+  padding: 1.2rem 1.8rem !important;
+  border-radius: 0 4px 4px 0 !important;
+  color: var(--text-secondary) !important;
+  font-style: italic !important;
+  font-size: 1.2rem !important;
+  line-height: 1.75 !important;
+  position: relative;
+}
+
+blockquote::before {
+  content: '\201C';
+  position: absolute;
+  top: -0.6rem;
+  left: 0.9rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  color: var(--gold-light);
+  opacity: 0.5;
+  line-height: 1;
+}
+
+blockquote p {
+  margin: 0 !important;
+  font-family: 'Crimson Pro', Georgia, serif !important;
+  font-size: 1.18rem !important;
+}
+
+/* ── Code ── */
+code {
+  font-family: 'Space Mono', monospace !important;
+  background: var(--paper-cold) !important;
+  color: var(--red-deep) !important;
+  padding: 0.1em 0.45em !important;
+  border-radius: 2px !important;
+  font-size: 0.83rem !important;
+  border: 1px solid rgba(44, 62, 110, 0.15) !important;
+}
+
+pre {
+  font-family: 'Space Mono', monospace !important;
+  background: var(--ink) !important;
+  color: #d4e0d4 !important;
+  padding: 1.5rem 1.8rem !important;
+  border-radius: 4px !important;
+  font-size: 0.82rem !important;
+  line-height: 1.7 !important;
+  overflow-x: auto !important;
+  border: none !important;
+  border-left: 3px solid var(--red) !important;
+  margin: 1.5rem 0 !important;
+}
+
+pre code {
+  background: transparent !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  font-size: inherit !important;
+}
+
+/* ── Tables ── */
 table {
   width: 100% !important;
   border-collapse: collapse !important;
-  font-size: 0.93rem !important;
-  margin: 1.2rem 0 !important;
+  font-family: 'Crimson Pro', Georgia, serif !important;
+  font-size: 1.02rem !important;
+  margin: 2rem 0 !important;
+  border: var(--border-mid) !important;
 }
 
 thead tr {
-  background-color: var(--teal-light) !important;
-  color: var(--cream) !important;
+  background-color: var(--ink) !important;
+  color: var(--paper) !important;
 }
 
 th {
-  font-family: 'DM Sans', sans-serif !important;
-  font-weight: 500 !important;
-  padding: 0.6rem 1rem !important;
-  text-align: center !important;
-  letter-spacing: 0.03em !important;
+  font-family: 'Space Mono', monospace !important;
+  font-weight: 700 !important;
+  font-size: 0.72rem !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  padding: 0.8rem 1.2rem !important;
+  text-align: left !important;
+  color: var(--paper) !important;
+  border: none !important;
 }
 
 td {
-  padding: 0.55rem 1rem !important;
-  text-align: center !important;
-  border-bottom: 0.5px solid #ccdede !important;
-  color: var(--text-dark) !important;
+  padding: 0.65rem 1.2rem !important;
+  text-align: left !important;
+  border-bottom: 1px solid rgba(30, 28, 22, 0.1) !important;
+  color: var(--text-secondary) !important;
 }
 
 tr:nth-child(even) td {
-  background-color: rgba(255, 255, 255, 0.2) !important;
+  background-color: var(--gold-pale) !important;
+  opacity: 1 !important;
 }
 
-/* Blockquotes & Code */
-blockquote {
-  border-left: 4px solid var(--teal-accent) !important;
-  background: rgba(255, 255, 255, 0.3) !important;
-  margin: 1.5rem 0 !important;
-  padding: 0.8rem 1.2rem !important;
-  border-radius: 0 6px 6px 0 !important;
-  color: var(--text-mid) !important;
-  font-style: italic !important;
+tr:hover td {
+  background-color: var(--slate-pale) !important;
+  transition: background 0.15s;
 }
 
-code, pre {
-  font-family: 'Courier New', monospace !important;
-  background: #dceaea !important;
-  color: var(--teal-dark) !important;
-  padding: 0.15rem 0.4rem !important;
-  border-radius: 3px !important;
-  font-size: 0.88rem !important;
+/* Caption — for research tables */
+caption {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  padding-bottom: 0.5rem;
+  text-align: left;
 }
 
-/* Footer */
+/* ── Publication / Paper Card (for .paper or .publication class) ── */
+.paper,
+.publication {
+  border: var(--border-fine);
+  border-left: 3px solid var(--red);
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+  background: rgba(255,255,255,0.55);
+  border-radius: 0 4px 4px 0;
+  transition: box-shadow 0.2s var(--ease-out), transform 0.2s var(--ease-out);
+}
+
+.paper:hover,
+.publication:hover {
+  box-shadow: 0 6px 32px rgba(14, 15, 19, 0.09);
+  transform: translateY(-2px);
+}
+
+.paper .title,
+.publication .title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+
+.paper .venue,
+.publication .venue {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--red);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.paper .authors,
+.publication .authors {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.98rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Badges / Tags ── */
+.tag, .badge {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.2em 0.6em;
+  border-radius: 2px;
+  background: var(--slate-pale);
+  color: var(--slate);
+  border: 1px solid rgba(44, 62, 110, 0.2);
+  margin: 0.1rem;
+}
+
+/* ── Sidebar / Aside ── */
+aside,
+.sidebar {
+  border: var(--border-fine);
+  border-top: 3px solid var(--slate);
+  padding: 1.2rem 1.4rem;
+  background: var(--paper-cold);
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin: 2rem 0;
+}
+
+/* ── Footer ── */
 footer,
 .site-footer {
-  background-color: var(--teal-mid) !important;
-  border-top: 2px solid var(--teal-border) !important;
-  padding: 1.2rem 2rem !important;
+  background-color: var(--ink) !important;
+  border-top: 3px solid var(--red) !important;
+  padding: 2.5rem 3rem !important;
   text-align: center !important;
+  position: relative;
+}
+
+footer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(
+      90deg,
+      rgba(255,255,255,0.012) 0px,
+      rgba(255,255,255,0.012) 1px,
+      transparent 1px,
+      transparent 60px
+    );
+  pointer-events: none;
 }
 
 footer a,
 .site-footer a {
-  color: #ffffff !important;
-  margin: 0 0.6rem !important;
-  font-size: 1rem !important;
+  color: var(--gold-light) !important;
+  margin: 0 0.8rem !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.8rem !important;
+  letter-spacing: 0.06em !important;
   transition: color 0.2s !important;
+  border-bottom: none !important;
+}
+
+footer a:hover,
+.site-footer a:hover {
+  color: #ffffff !important;
   border-bottom: none !important;
 }
 
 footer p,
 .site-footer p {
-  color: #ffffff !important;
-  font-size: 0.78rem !important;
-  margin-top: 0.5rem !important;
+  color: var(--text-ghost) !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.06em !important;
+  margin-top: 0.8rem !important;
 }
 
-/* Images & Misc */
+/* ── Images ── */
 article img,
 .post-content img {
-  border-radius: 6px !important;
-  box-shadow: 0 2px 10px rgba(13,38,38,0.18) !important;
+  border-radius: 3px !important;
+  box-shadow: 0 4px 20px rgba(14, 15, 19, 0.14) !important;
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
 }
 
-/* Responsive Scaling */
-@media (max-width: 700px) {
+figcaption {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 0.6rem;
+  letter-spacing: 0.05em;
+}
+
+/* ── Selection Style ── */
+::selection {
+  background: var(--red-glow);
+  color: var(--red-deep);
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--paper);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--gold);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--red);
+}
+
+/* ── Focus Ring (Accessibility) ── */
+:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* ── Utility: Page Number Label (for long docs) ── */
+.page-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--text-ghost);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) {
   main,
   .content,
   article,
   .page-content,
   .post-content,
   .wrapper {
-    padding: 1.2rem 1.2rem !important;
-    margin: 0 !important;
-    border-radius: 0 !important;
+    padding: 2rem 1.5rem !important;
+    max-width: 100% !important;
   }
 
-  header {
+  h1 {
+    font-size: 1.8rem !important;
+  }
+
+  h2 {
+    font-size: 1.3rem !important;
+  }
+
+  header > div,
+  .site-header-inner,
+  header > .wrapper {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 1rem !important;
+    padding: 1.2rem 1.5rem !important;
+  }
+
+  nav,
+  header nav {
+    flex-wrap: wrap !important;
+    gap: 0.15rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  main,
+  .content,
+  article,
+  .page-content,
+  .post-content,
+  .wrapper {
+    padding: 1.5rem 1rem !important;
+  }
+
+  h1 {
+    font-size: 1.5rem !important;
+  }
+
+  p {
+    text-align: left !important;
+    hyphens: none !important;
+  }
+
+  blockquote {
+    margin-left: 0 !important;
     padding: 0.9rem 1rem !important;
+  }
+
+  footer,
+  .site-footer {
+    padding: 1.5rem 1rem !important;
   }
 }

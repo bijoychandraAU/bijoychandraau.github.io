@@ -1,0 +1,274 @@
+/* ============================================================
+   Bijoychandra Takhellambam — Jekyll Site Custom Theme
+   Slate Blue Edition
+   Place at: assets/css/custom.css
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+
+:root {
+  /* Updated Background Color */
+  --bg-main:       #d7dbce; 
+  
+  /* Brand Colors */
+  --teal-dark:     #0d2626;
+  --teal-mid:      #123030;
+  --teal-light:    #1a4444;
+  --teal-accent:   #2a7a7a;
+  --teal-border:   #255555;
+  
+  /* UI Accents */
+  --silver:        #a8c4c4;
+  --silver-light:  #ccdede;
+  --cream:         #eef4f4;
+  --cream-muted:   #b0c8c8;
+  
+  /* Text & Contrast */
+  --text-dark:     #0f2020;
+  --text-mid:      #2a4040;
+  --text-muted:    #5a7878;
+}
+
+html, body {
+  background-color: var(--bg-main) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 400;
+  color: var(--text-dark);
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Section */
+header,
+.site-header,
+header.minimal,
+body > header {
+  background-color: var(--teal-mid) !important;
+  border-bottom: 2px solid var(--silver) !important;
+  padding: 1.2rem 2rem !important;
+}
+
+header a.site-title,
+header .site-title,
+header h1,
+header h1 a {
+  font-family: 'Lora', Georgia, serif !important;
+  color: #ffffff !important;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.02em;
+  text-decoration: none !important;
+}
+
+header .site-description,
+header p {
+  color: var(--cream-muted) !important;
+  font-size: 0.85rem !important;
+  font-weight: 300 !important;
+  margin-top: 0.15rem !important;
+}
+
+/* Navigation */
+nav,
+header nav,
+.navigation {
+  background-color: var(--teal-mid) !important;
+}
+
+nav a,
+.navigation a,
+header nav a {
+  color: var(--cream) !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 0.88rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  padding: 0.3rem 0.8rem !important;
+  border-radius: 4px !important;
+  transition: background 0.2s, color 0.2s !important;
+  text-decoration: none !important;
+}
+
+nav a:hover,
+.navigation a:hover,
+header nav a:hover {
+  background-color: var(--teal-accent) !important;
+  color: #fff !important;
+}
+
+nav a.active,
+.navigation a.active {
+  color: var(--silver-light) !important;
+  border-bottom: 2px solid var(--silver-light) !important;
+}
+
+/* Main Content Area */
+main,
+.content,
+article,
+.page-content,
+.post-content,
+#content,
+.wrapper {
+  background-color: var(--bg-main) !important; /* Set to your requested color */
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 2.5rem 4rem !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  color: var(--text-dark) !important;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  font-family: 'Lora', Georgia, serif !important;
+  color: var(--teal-light) !important;
+}
+
+h1 {
+  font-size: 1.9rem !important;
+  border-bottom: 2px solid var(--teal-accent) !important;
+  padding-bottom: 0.4rem !important;
+  margin-bottom: 1rem !important;
+}
+
+h2 {
+  font-size: 1.4rem !important;
+  color: var(--teal-accent) !important;
+  margin-top: 2rem !important;
+}
+
+h3 {
+  font-size: 1.1rem !important;
+  color: var(--text-mid) !important;
+}
+
+p, li {
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 0.97rem !important;
+  line-height: 1.8 !important;
+  color: var(--text-dark) !important;
+}
+
+a {
+  color: var(--teal-accent) !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid transparent !important;
+  transition: border-color 0.15s, color 0.15s !important;
+}
+
+a:hover {
+  color: var(--teal-dark) !important;
+  border-bottom-color: var(--teal-accent) !important;
+}
+
+hr {
+  border: none !important;
+  border-top: 1.5px solid var(--teal-accent) !important;
+  opacity: 0.4 !important;
+  margin: 2rem 0 !important;
+}
+
+/* Tables */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.93rem !important;
+  margin: 1.2rem 0 !important;
+}
+
+thead tr {
+  background-color: var(--teal-light) !important;
+  color: var(--cream) !important;
+}
+
+th {
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: 500 !important;
+  padding: 0.6rem 1rem !important;
+  text-align: center !important;
+  letter-spacing: 0.03em !important;
+}
+
+td {
+  padding: 0.55rem 1rem !important;
+  text-align: center !important;
+  border-bottom: 0.5px solid #ccdede !important;
+  color: var(--text-dark) !important;
+}
+
+tr:nth-child(even) td {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Blockquotes & Code */
+blockquote {
+  border-left: 4px solid var(--teal-accent) !important;
+  background: rgba(255, 255, 255, 0.3) !important;
+  margin: 1.5rem 0 !important;
+  padding: 0.8rem 1.2rem !important;
+  border-radius: 0 6px 6px 0 !important;
+  color: var(--text-mid) !important;
+  font-style: italic !important;
+}
+
+code, pre {
+  font-family: 'Courier New', monospace !important;
+  background: #dceaea !important;
+  color: var(--teal-dark) !important;
+  padding: 0.15rem 0.4rem !important;
+  border-radius: 3px !important;
+  font-size: 0.88rem !important;
+}
+
+/* Footer */
+footer,
+.site-footer {
+  background-color: var(--teal-mid) !important;
+  border-top: 2px solid var(--teal-border) !important;
+  padding: 1.2rem 2rem !important;
+  text-align: center !important;
+}
+
+footer a,
+.site-footer a {
+  color: #ffffff !important;
+  margin: 0 0.6rem !important;
+  font-size: 1rem !important;
+  transition: color 0.2s !important;
+  border-bottom: none !important;
+}
+
+footer p,
+.site-footer p {
+  color: #ffffff !important;
+  font-size: 0.78rem !important;
+  margin-top: 0.5rem !important;
+}
+
+/* Images & Misc */
+article img,
+.post-content img {
+  border-radius: 6px !important;
+  box-shadow: 0 2px 10px rgba(13,38,38,0.18) !important;
+}
+
+/* Responsive Scaling */
+@media (max-width: 700px) {
+  main,
+  .content,
+  article,
+  .page-content,
+  .post-content,
+  .wrapper {
+    padding: 1.2rem 1.2rem !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+  }
+
+  header {
+    padding: 0.9rem 1rem !important;
+  }
+}
