@@ -20,8 +20,6 @@ Integrating subsurface tile drainage into the [Variable Infiltration Capacity (V
 ## 🛰️ Precision Agriculture & Remote Sensing
 UAS-based crop water stress assessment and sensor-driven irrigation management for corn and soybean systems, enabling site-specific decision-making under variable field conditions and changing climate.
 
----
-
 # RESEARCH EXPERIENCES
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
@@ -57,8 +55,6 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 </div>
 
 <div style="clear:both;"></div>
-
----
 
 # SELECTED PUBLICATIONS
 
@@ -98,8 +94,6 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 
 - **VIC + Tile Drainage Module** — Extended Variable Infiltration Capacity land surface model with integrated subsurface drainage processes for poorly drained agricultural soils *(in progress)*.
 
----
-
 
 # PROFESSIONAL SERVICE & AFFILIATIONS
 
@@ -128,9 +122,8 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 
 </div>
 
----
 
-### 🔍 Journal Reviewer
+## 🔍 Journal Reviewer
 *Consistently contributing to the peer-review process for high-impact journals in hydrology, data science, and environmental modeling:*
 
 <div style="font-size: 0.9em; column-count: 2; column-gap: 40px; color: #444;">
