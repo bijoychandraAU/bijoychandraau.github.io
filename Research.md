@@ -77,9 +77,9 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 
 ## IN PROGRESS/UNDER REVIEW PUBLICATIONS
 
-- Karki, R., **Takhellambam, B.S.**, Srivastava, P., 2026, Performance Evaluation of Gridded Climate Data for Capturing Trends and Extremes in Temperature and Precipitation over the Mid-Atlantic Region of US, International Journal of Climatology (Under review).
+- Karki, R., **Takhellambam, B.S.**, Srivastava, P., 2026, **Performance Evaluation of Gridded Climate Data for Capturing Trends and Extremes in Temperature and Precipitation over the Mid-Atlantic Region of US**, International Journal of Climatology (Under review).
 
-- **Takhellambam, B.S.**, Srivastava, P., Lamba, Kumar, H., Molinari, R., (2026). A Bayesian framework for uncertainty quantification of rainfall Intensity–Duration–Frequency (IDF) curves, Atmospheric Research (Under review).
+- **Takhellambam, B.S.**, Srivastava, P., Lamba, Kumar, H., Molinari, R., (2026). **A Bayesian framework for uncertainty quantification of rainfall Intensity–Duration–Frequency (IDF) curves**, Atmospheric Research (Under review).
 
 
 ## Other publications
@@ -91,7 +91,8 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 -  **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://doi.org/10.13031/aim.202200175)
 
 Full publication list → [Google Scholar](https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en)
----
+
+
 
 # TOOLS & DATA
 
