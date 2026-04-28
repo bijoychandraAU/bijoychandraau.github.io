@@ -125,7 +125,7 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
       <li><strong>ASABE</strong> | American Society of Agricultural and Biological Engineers</li>
       <li><strong>AGU</strong> | American Geophysical Union</li>
       <li><strong>AWRA</strong> | American Water Resources Association (National & Alabama Sections)</li>
-      <li><strong>AABFEIO</strong> | Assoc. of Ag, Biological, & Food Engineers of Indian Origin</li>
+      <li><strong>AABFEIO</strong> |  Association of Agricultural, Biological, and Food Engineers of Indian Origin</li>
       <li><strong>ASCE</strong> | American Society of Civil Engineers</li>
     </ul>
   </div>
