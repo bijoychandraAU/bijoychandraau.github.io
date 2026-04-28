@@ -39,7 +39,7 @@ I assisted with laboratory instruction, including designing and leading lab sess
 
 
 
-**1. R Programming for Data Science (Graduate) | Fall 2021**
+**1. R Programming for Data Science (Graduate)** | Fall 2021
 
 Introducing students to the modern data science workflow using the R ecosystem.
 * **Reproducibility:** Teaching version control via GitHub and literate programming.
