@@ -17,7 +17,7 @@ navigation:
   - {file: "index.md",    title: "Home"}
   - {file: "Research.md", title: "Research & Service"}
   - {file: "Teaching.md", title: "Teaching & Mentoring"}
-  - {file: "awards.md",   title: "Honors & Awards"}
+  - {file: "Honors_awards.md",   title: "Honors & Awards"}
   - {url: "/File/Bijoychandra_CV.pdf", title: "CV"}
 
 
