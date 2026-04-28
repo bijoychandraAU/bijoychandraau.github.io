@@ -22,11 +22,11 @@ navigation:
 
 
 external:
-  - {title: "Mail",           icon: "fas fa-envelope",       url: "mailto:bijoytbl@umd.edu"}
-  - {title: "Github",         icon: "fab fa-github",         url: "https://github.com/bijoychandraAU"}
-  - {title: "Linkedin",       icon: "fab fa-linkedin",       url: "https://www.linkedin.com/in/bijoychandra/"}
-  - {title: "Google Scholar", icon: "fas fa-graduation-cap",  url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
-
+  - {title: "Mail",           url: "mailto:bijoytbl@umd.edu"}
+  - {title: "Github",         url: "https://github.com/bijoychandraAU"}
+  - {title: "Linkedin",       url: "https://www.linkedin.com/in/bijoychandra/"}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
