@@ -141,12 +141,12 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
     <li>Journal of Hydrology: Regional Studies</li>
     <li>Transactions of the ASABE</li>
     <li>Geoscientific Model Development</li>
-    <li>HESS (Hydrology and Earth System Sciences)</li>
+    <li>Hydrology and Earth System Sciences</li>
     <li>Agricultural Systems</li>
     <li>Computers and Electronics in Agriculture</li>
     <li>Frontier in Artificial Intelligence</li>
     <li>Modeling Earth Systems and Environment</li>
-    <li>Intl. Soil and Water Conservation Research</li>
+    <li>International Soil and Water Conservation Research</li>
     <li>Groundwater for Sustainable Development</li>
     <li>Applied Engineering in Agriculture</li>
     <li>Stochastic Env. Research & Risk Assessment</li>
