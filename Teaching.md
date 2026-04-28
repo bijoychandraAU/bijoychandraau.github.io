@@ -28,9 +28,9 @@ I take great pride in the professional development of my students. Through perso
 
 
 ## Co-Instructor
-**Spring 2024-2025**
 
-**1. Environmental Field Skills**
+
+**1. Environmental Field Skills | *pring 2024 & 2025**
 
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. I lead students in:
 * **Hydrology:** Measuring stream discharge and performing slug tests.
@@ -45,9 +45,9 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 
 
 ## Teaching Assistant
-**Fall 2021**
 
-**1. R Programming for Data Science**
+
+**1. R Programming for Data Science | Fall 2021**
 
 Introducing students to the modern data science workflow using the R ecosystem.
 * **Reproducibility:** Teaching version control via GitHub and literate programming.
