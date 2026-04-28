@@ -6,15 +6,7 @@ layout: page
 Professional educator dedicated to bridging the gap between theoretical soil science and practical environmental application. My teaching philosophy centers on hands-on experiential learning and the integration of data science into natural resource management.
 
 
-# 🎓 Mentoring & Student Success
-I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
-
-* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
-* **Ph.D. Admissions:** Guided undergraduate researchers through the application process, resulting in placements at top-tier R1 research institutions.
-* **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
-
-
-# 🏫 Teaching Experience
+# Teaching Experience
 
 ## Teaching Assistant
 **Soil Physics (Undergraduate/Graduate) | Fall 2024**
@@ -55,3 +47,9 @@ Introducing students to the modern data science workflow using the R ecosystem.
 * **Software Development:** Guiding students through the creation and documentation of custom R packages.
 
 
+# Mentoring & Student Success
+I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
+
+* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
+* **Ph.D. Admissions:** Guided undergraduate researchers through the application process, resulting in placements at top-tier R1 research institutions.
+* **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
