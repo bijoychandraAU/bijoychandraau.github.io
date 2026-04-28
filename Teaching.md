@@ -13,6 +13,39 @@ layout: page
 I co-teach this four-section course (12 contact hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
 
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <p style="margin-top: 0;">
+      <blockquote>
+        <strong>Key Objectives:</strong>
+        <ul style="margin-top: 10px; padding-left: 20px;">
+          <li>Instrument calibration</li>
+          <li>Snow survey</li>
+          <li>Topographic maps</li>
+          <li>Soil moisture and temperature mapping</li>
+          <li>River discharge</li>
+          <li>Piezometers & wells</li>
+          <li>Wetland identification</li>
+          <li>Wading discharge measurements</li>
+          <li>Wetlands and water quality</li>
+          <li>Stream geomorphology</li>
+          <li>Channel health evaluation</li>
+        </ul>
+      </blockquote>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/File/NRES338.png" alt="Field Skills Students" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
+
+
+
 > **Key Objectives:**
 > *	Instrument calibration.
 > *	Snow survey
