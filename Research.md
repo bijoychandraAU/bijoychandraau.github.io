@@ -30,6 +30,17 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
   </p>
 </div>
 
+<div style="margin-bottom: 2rem; overflow: hidden;">
+  <img align="left" width="210" src="/File/UAV.jpeg" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
+  <p>
+    <strong> UAS-Based Approaches for Estimating Crop Water Requirements </strong><br>
+   Globally, irrigated agriculture has the potential to increase crop yield per hectare of land an average of 2.3 times over rainfed agriculture. According to the 2012 Census of Agriculture, irrigated agriculture in the United States is just 14% of total cultivated area contributing to 39% of the total country's farm sales. While the yield benefits are not as large, farmers in the Eastern Corn Belt have been increasingly using irrigation as a method of risk reduction, with irrigated acres in Indiana and Illinois increasing by 22% after the 2012 drought. According to the Fifth National Climate Assessment, summers in the Midwest are expected to become hotter, increasing both heat stress and drought stress in crops. Winter and spring conditions will become increasingly wet, resulting in a need to retain water from the wet spring for use when the crops are heat and drought stressed.  Supplemental irrigation to replace evaporative losses during times of stress can support yield potential.  Effective irrigation management requires accurate estimation of crop evapotranspiration, a critical parameter for managing the water balance. Our study utilizes thermal and RGB imagery from Unmanned Aircraft Systems (UAS) of irrigated and non-irrigated corn and soybean plots to estimate crop water stress and evapotranspiration rates. The expected outcomes of this study will provide valuable information on the timing and amount of irrigation needed to alleviate crop water stress. By optimizing water use, this approach aims to enhance crop yields while conserving water resources.
+  </p>
+</div>
+
+
+
+
 <div style="clear:both; margin-bottom: 2rem; overflow: hidden;">
   <img align="left" width="210" src="/File/PhD.jpg" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
   <p>
