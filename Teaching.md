@@ -7,11 +7,25 @@ layout: page
 
 
 **1. Environmental Field Skills (Undergraduate)** - Spring 2024 & 2025
+*Focus: This practical, field-based laboratory course is designed to provide hands-on experience with environmental monitoring field techniques, including stream discharge measurements, slug tests, aquatic sampling, surveying and wetland delineations utilizing local sites and watersheds as the classroom.*
 
-A practical, field-intensive course providing firsthand experience with monitoring methodologies. I lead students in:
-* **Hydrology:** Measuring stream discharge and performing slug tests.
-* **Ecology:** Gathering aquatic samples and delineating wetland boundaries.
-* **Surveying:** Implementing real-world mapping and watershed analysis.
+I co-teach this four-section course (12 contact hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
+
+A practical, field-intensive course providing firsthand experience with monitoring methodologies. 
+
+> **Key Objectives:**
+> *	Instrument calibration.
+> *	Snow survey
+> *	Topographic maps
+> *	Soil moisture and temperature mapping
+> *	River discharge
+> *	Piezometers & wells
+> *	Wetland identification
+> *	Wading discharge measurements
+> *	Wetlands and water quality
+> *	Stream geomorphology
+> *	Channel health evaluation	
+
 
 **2. Senior Capstone Design (Undergraduate) | Spring 2024 & 2025**
 
