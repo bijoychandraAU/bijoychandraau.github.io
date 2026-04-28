@@ -8,16 +8,16 @@ The overarching goal of my research is to advance sustainable development at the
 
 # RESEARCH THEMES
 
-## 💧 Rainfall Extremes & IDF Curves
+## Rainfall Extremes & IDF Curves
 Projecting future rainfall intensity-duration-frequency (IDF) curves under climate change using artificial neural networks and Bayesian uncertainty quantification, with direct applications to engineering design, stormwater infrastructure, and flood risk management across the Southeast United States.
 
-## 🌱 Soil Erosion & Land Use
+## Soil Erosion & Land Use
 Quantifying mid-century rainfall erosivity under climate change and developing Best Management Practices (BMPs) for hilly watersheds using the process-based [WEPP](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp) soil erosion model across diverse farming systems.
 
-## 🗺️ Hydrological Modeling
+## Hydrological Modeling
 Integrating subsurface tile drainage into the [Variable Infiltration Capacity (VIC)](https://vic.readthedocs.io/en/master/Overview/ModelOverview/) land surface model for water and nutrient management in poorly drained agricultural soils; water quality modeling with SWAT; and flood estimation with [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/).
 
-## 🛰️ Precision Agriculture & Remote Sensing
+## Precision Agriculture & Remote Sensing
 UAS-based crop water stress assessment and sensor-driven irrigation management for corn and soybean systems, enabling site-specific decision-making under variable field conditions and changing climate.
 
 # RESEARCH EXPERIENCES
@@ -97,7 +97,7 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 
 -  Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Lyon, S.W., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. Integral Approach of Unsupervised Learning and Temporal Stability in Irrigation Management, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://elibrary.asabe.org/azdez.asp?JID=5&AID=54325&CID=oma2023&T=1)
 
--  **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern united states**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[DOI](https://doi.org/10.13031/aim.202200176)
+-  **Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern United States**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[DOI](https://doi.org/10.13031/aim.202200176)
 
 -  **Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1. [DOI](https://doi.org/10.13031/aim.202200175)
 
@@ -119,7 +119,7 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
   <div style="flex: 1; min-width: 300px; line-height: 1.6;">
-    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">🤝 Professional Memberships</h3>
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;"> Professional Memberships</h3>
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>ASABE</strong> | American Society of Agricultural and Biological Engineers</li>
       <li><strong>AGU</strong> | American Geophysical Union</li>
@@ -130,7 +130,7 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
   </div>
 
   <div style="flex: 1; min-width: 300px; line-height: 1.6;">
-    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">🏛️ Leadership & Outreach</h3>
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;"> Leadership & Outreach</h3>
     <p style="margin-bottom: 8px;"><strong>NRES Ambassador Mentor</strong><br>
     <span style="color: #666;">Purdue University</span></p>
     <ul style="padding-left: 18px;">
@@ -142,7 +142,7 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
 </div>
 
 
-## 🔍 Journal Reviewer
+## Journal Reviewer
 *Consistently contributing to the peer-review process for high-impact journals in hydrology, data science, and environmental modeling:*
 
 <div style="font-size: 0.9em; column-count: 2; column-gap: 40px; color: #444;">
