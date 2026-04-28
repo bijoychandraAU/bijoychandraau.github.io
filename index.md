@@ -30,6 +30,6 @@ His Google Scholar page may be found [here](https://scholar.google.com/citations
 
 | Position | University/Institute | Year |
 |:---------|:---------------------|:----:|
-| Senior Faculty Specialist | [Maryland Agricultural Experiment Station, University of Maryland](https://agnr.umd.edu/home/) | Jan 2026 – Present |
-| Postdoctoral Research Assistant | [Dept. of Agronomy](https://ag.purdue.edu/department/agry/) & [NRES](https://ag.purdue.edu/department/nres/index.html), Purdue University | Oct 2023 – Jan 2026 |
-| Research Associate | [Natural Resource Management, ICAR](http://www.icarneh.ernet.in/) | Aug 2017 – Nov 2018 |
+| Senior Faculty Specialist | [Maryland Agricultural Experiment Station, University of Maryland](https://agnr.umd.edu/home/) | 2026 – Present |
+| Postdoctoral Research Assistant | [Dept. of Agronomy](https://ag.purdue.edu/department/agry/) & [NRES](https://ag.purdue.edu/department/nres/index.html), Purdue University | 2023 – 2026 |
+| Research Associate | [Natural Resource Management, ICAR](http://www.icarneh.ernet.in/) | 2017 – 2018 |
