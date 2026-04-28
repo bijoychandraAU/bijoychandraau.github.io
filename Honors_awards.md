@@ -16,6 +16,8 @@ title: "Honors & Awards"
 * **First Place Winner**, Graduate Research Showcase Poster Competition, Auburn University 
 
 ### 🎫 Fellowships & Competitive Grants
+
+* **Postdoc Travel Award**, Office of the Vice Provost for Graduate Students and Postdoctoral Scholars, Purdue University 
 * **Travel Fellowship**, Graduate Student Council, Auburn University 
 * **Travel Fellowship**, Graduate Student Council, Auburn University 
 * **National Science Foundation (NSF) Travel Grant**, HydroML Conference, Penn State University
