@@ -46,18 +46,6 @@ A practical, field-intensive course providing firsthand experience with monitori
 
 
 
-> **Key Objectives:**
-> *	Instrument calibration.
-> *	Snow survey
-> *	Topographic maps
-> *	Soil moisture and temperature mapping
-> *	River discharge
-> *	Piezometers & wells
-> *	Wetland identification
-> *	Wading discharge measurements
-> *	Wetlands and water quality
-> *	Stream geomorphology
-> *	Channel health evaluation	
 
 
 **2. Senior Capstone Design (Undergraduate)** - Spring 2024 & 2025
@@ -76,12 +64,34 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 I assisted with laboratory instruction, including designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
 
 
-> **Key Learning Objectives:**
-> * To understand basic physical processes that occur in soils, including water, chemicals, and heat transport.
-> * To be able to calculate key soil physical property values and soil physical rates when given appropriate input data.
-> * To develop knowledge and skills in principle and methodology for assessing soil physical properties and processes.
-> * To understand and describe the principles of soil structure formation and soil health improvement, and assessment.
-> * To understand the effects of soil physical properties and processes on crop production and environmental quality.
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <p style="margin-top: 0;">
+      <blockquote>
+        <strong>Key Learning Objectives:</strong>
+        <ul style="margin-top: 10px; padding-left: 20px;">
+          <li>To understand basic physical processes that occur in soils, including water, chemicals, and heat transport.</li>
+          <li>To be able to calculate key soil physical property values and soil physical rates when given appropriate input data.</li>
+          <li>To develop knowledge and skills in principle and methodology for assessing soil physical properties and processes.</li>
+          <li>To understand and describe the principles of soil structure formation and soil health improvement, and assessment.</li>
+          <li>To understand the effects of soil physical properties and processes on crop production and environmental quality.</li>   
+        </ul>
+      </blockquote>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/File/soilphysics.jpg" alt="Soil Physics" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
+
+
+
+
+
+
 
 
 
