@@ -6,7 +6,7 @@ layout: page
 ## Co-Instructor 
 
 
-**1. Environmental Field Skills (Undergraduate) | Spring 2024 & 2025**
+**1. Environmental Field Skills (Undergraduate)** - Spring 2024 & 2025
 
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. I lead students in:
 * **Hydrology:** Measuring stream discharge and performing slug tests.
@@ -22,7 +22,7 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 
 ## Teaching Assistant
 
-**2. Soil Physics (Undergraduate/Graduate) | Fall 2024**
+**2. Soil Physics (Undergraduate/Graduate)** - Fall 2024
 
 *Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.* 
 
