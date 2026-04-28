@@ -1,10 +1,19 @@
 <nav>
-{%- for item in include.menu -%}
-  {%- assign node = site.pages | where: "name", item.file | first -%}
-  {%- assign url = item.url | default: node.url -%}
-  {%- assign title = item.title | default: node.title -%}
-  <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-    {%- if item.icon -%}<svg aria-label="{{ title }}" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>{%- else -%}{{ title }}{%- endif -%}
-  </a>
-{%- endfor -%}
+  {%- for item in include.menu -%}
+    {%- comment -%} 
+      1. Find the page file or use the direct URL (like for your CV PDF)
+    {%- endcomment -%}
+    {%- assign node = site.pages | where: "name", item.file | first -%}
+    {%- assign url = item.url | default: node.url -%}
+    {%- assign title = item.title | default: node.title -%}
+
+    {%- comment -%} 
+      2. Create the link. 
+      If the user is currently on this page, add the "active" class.
+    {%- endcomment -%}
+    <a href="{{ url | relative_url }}" 
+       class="{% if url == page.url %}active{% endif %}">
+      {{ title }}
+    </a>
+  {%- endfor -%}
 </nav>
