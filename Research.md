@@ -79,7 +79,7 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
 
 - Karki, R., **Takhellambam, B.S.**, Srivastava, P., 2026, Performance Evaluation of Gridded Climate Data for Capturing Trends and Extremes in Temperature and Precipitation over the Mid-Atlantic Region of US, International Journal of Climatology (Under review).
 
-- **Takhellambam, **B.S., Srivastava, P., Lamba, Kumar, H., Molinari, R., (2026). A Bayesian framework for uncertainty quantification of rainfall Intensity–Duration–Frequency (IDF) curves, Atmospheric Research (Under review).
+- **Takhellambam, B.S.**, Srivastava, P., Lamba, Kumar, H., Molinari, R., (2026). A Bayesian framework for uncertainty quantification of rainfall Intensity–Duration–Frequency (IDF) curves, Atmospheric Research (Under review).
 
 
 ## Other publications
