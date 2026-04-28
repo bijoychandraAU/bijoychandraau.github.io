@@ -45,7 +45,7 @@ UAS-based crop water stress assessment and sensor-driven irrigation management f
   <img align="left" width="210" src="/File/PhD.jpg" style="margin-right: 24px; margin-bottom: 8px; border-radius: 6px;">
   <p>
     <strong>Climate Change Implications on Rainfall Characteristics and Erosivity</strong><br>
-        This research developed high-temporal-resolution precipitation data by combining in-situ observations with NetCDF climate model outputs. Key contributions include: (1) the <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a> R-package for generating projected 15-minute rainfall from multiple climate models; (2) quantification of projected mid-century rainfall erosivity over the Southeast US; (3) ANN-empowered IDF curves for future climate scenarios; and (4) a Bayesian bootstrapping framework for IDF uncertainty quantification.
+        This research developed high-temporal-resolution precipitation data by combining in-situ observations with NetCDF climate model outputs. Key contributions include: (1) the <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a> R-package for generating projected 15-minute rainfall from multiple climate models; (2) quantification of projected mid-century rainfall erosivity over the Southeast US; (3) ANN-empowered IDF curves for future climate scenarios; and (4) a Bayesian framework for IDF uncertainty quantification.
   </p>
 </div>
 
