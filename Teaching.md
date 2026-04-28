@@ -5,7 +5,6 @@ layout: page
 
 Professional educator dedicated to bridging the gap between theoretical soil science and practical environmental application. My teaching philosophy centers on hands-on experiential learning and the integration of data science into natural resource management.
 
----
 
 ## 🎓 Mentoring & Student Success
 I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
@@ -14,7 +13,6 @@ I take great pride in the professional development of my students. Through perso
 * **Ph.D. Admissions:** Guided undergraduate researchers through the application process, resulting in placements at top-tier R1 research institutions.
 * **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
 
----
 
 ## 🏫 Teaching Experience
 
@@ -27,7 +25,6 @@ I take great pride in the professional development of my students. Through perso
 > * Calculating physical property values and process rates from field data.
 > * Evaluating the impact of soil processes on environmental quality and agricultural yields.
 
----
 
 ### Co-Instructor
 **Spring 2024**
@@ -43,7 +40,6 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 * **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
 * **Professional Growth:** Bridging academia with industry through networking and project-based deliverables.
 
----
 
 ### Teaching Assistant
 **Fall 2021**
