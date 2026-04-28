@@ -1,6 +1,6 @@
 title: "Bijoychandra Takhellambam"
 author: "Bijoychandra S. Takhellambam"
-description: "University of Maryland"
+description: ""
 url: "https://bijoychandraAU.github.io"
 baseurl: ""                          # "" if at root, "/reponame" if in a subfolder
 permalink: /:title/
@@ -21,6 +21,11 @@ navigation:
   - {url: "/File/Bijoychandra_CV.pdf", title: "CV"}
 
 
+university_link: 
+  title: "University of Maryland"
+  url: "https://umd.edu/"
+
+  
 external:
   - {title: "Mail",           url: "mailto:bijoytbl@umd.edu"}
   - {title: "Github",         url: "https://github.com/bijoychandraAU"}
