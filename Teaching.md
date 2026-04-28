@@ -16,8 +16,9 @@ I take great pride in the professional development of my students. Through perso
 
 ## 🏫 Teaching Experience
 
-### Current Appointment: Teaching Assistant
+### Teaching Assistant
 **Soil Physics (Undergraduate/Graduate) | Fall 2024**
+
 *Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
 
 > **Key Learning Objectives:**
@@ -30,12 +31,14 @@ I take great pride in the professional development of my students. Through perso
 **Spring 2024**
 
 **1. Environmental Field Skills**
+
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. I lead students in:
 * **Hydrology:** Measuring stream discharge and performing slug tests.
 * **Ecology:** Gathering aquatic samples and delineating wetland boundaries.
 * **Surveying:** Implementing real-world mapping and watershed analysis.
 
 **2. Senior Capstone Design**
+
 Facilitating multidisciplinary student teams as they tackle real-world environmental issues. 
 * **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
 * **Professional Growth:** Bridging academia with industry through networking and project-based deliverables.
@@ -45,6 +48,7 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 **Fall 2021**
 
 **1. R Programming for Data Science**
+
 Introducing students to the modern data science workflow using the R ecosystem.
 * **Reproducibility:** Teaching version control via GitHub and literate programming.
 * **Visualization:** Developing dynamic reports and interactive web applications (Shiny).
