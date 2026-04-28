@@ -24,12 +24,18 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 
 **2. Soil Physics (Undergraduate/Graduate) | Fall 2024**
 
-*Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
+*Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.* 
+
+I assisted with laboratory instruction, including designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
+
 
 > **Key Learning Objectives:**
-> * Mastering the principles of soil structure formation and soil health assessment.
-> * Calculating physical property values and process rates from field data.
-> * Evaluating the impact of soil processes on environmental quality and agricultural yields.
+> * To understand basic physical processes that occur in soils, including water, chemicals, and heat transport.
+> * To be able to calculate key soil physical property values and soil physical rates when given appropriate input data.
+> * To develop knowledge and skills in principle and methodology for assessing soil physical properties and processes.
+> * To understand and describe the principles of soil structure formation and soil health improvement, and assessment.
+> * To understand the effects of soil physical properties and processes on crop production and environmental quality.
+
 
 
 
