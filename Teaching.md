@@ -42,7 +42,7 @@ A practical, field-intensive course providing firsthand experience with monitori
   <figure style="margin: 0;">
     <img src="/File/NRES338.png" alt="Field Skills Students" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
     <figcaption style="text-align: center; margin-top: 0.75rem; font-size: 0.95rem; color: #555; font-style: italic;">
-      Stream discharge measurement.  The stream was flooded due to 0.4 inches of overnight rain.
+      Stream discharge measurement.  The stream was flooded due to 0.47 inches of overnight rain.
     </figcaption>
   </figure>
 </div>
