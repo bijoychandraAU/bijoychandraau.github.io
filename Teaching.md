@@ -52,47 +52,43 @@ A practical, field-intensive course providing firsthand experience with monitori
 
 **2. Senior Capstone Design (Undergraduate)** - Spring 2024 & 2025
 
-Facilitating multidisciplinary student teams as they tackle real-world environmental issues. 
+Facilitating multidisciplinary student teams as they tackle real-world environmental issues.  
 * **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
 * **Professional Growth:** Bridging academia with industry through networking and project-based deliverables.
 
-
 ## Teaching Assistant
 
-**2. Soil Physics (Undergraduate/Graduate)** - Fall 2024
+**3. Soil Physics (Undergraduate/Graduate)** - Fall 2024
 
-*Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.* 
+*Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
 
-I assisted with laboratory instruction, including designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
-
+I assisted with laboratory instruction by designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
 
   <div style="flex: 1; min-width: 300px;">
-    <p style="margin-top: 0;">
-      <blockquote>
-        <strong>Key Learning Objectives:</strong>
-        <ul style="margin-top: 10px; padding-left: 20px;">
-          <li>To understand basic physical processes that occur in soils, including water, chemicals, and heat transport.</li>
-          <li>To be able to calculate key soil physical property values and soil physical rates when given appropriate input data.</li>
-          <li>To develop knowledge and skills in principle and methodology for assessing soil physical properties and processes.</li>
-          <li>To understand and describe the principles of soil structure formation and soil health improvement, and assessment.</li>
-          <li>To understand the effects of soil physical properties and processes on crop production and environmental quality.</li>   
-        </ul>
-      </blockquote>
-    </p>
+    <blockquote style="margin: 0;">
+      <strong>Key Learning Objectives:</strong>
+      <ul style="margin-top: 10px; padding-left: 20px;">
+        <li>Understand the fundamental physical processes in soils, including water, chemical, and heat transport.</li>
+        <li>Calculate key soil physical properties and process rates using appropriate input data.</li>
+        <li>Develop practical skills in the principles and methodologies used to assess soil physical properties and processes.</li>
+        <li>Understand the principles of soil structure formation, soil health improvement, and their assessment.</li>
+        <li>Evaluate how soil physical properties and processes influence crop production and environmental quality.</li>
+      </ul>
+    </blockquote>
   </div>
 
+  <div style="flex: 1; min-width: 300px;">
+    <figure style="margin: 0;">
+      <img src="/File/soilphysics.jpg" alt="Soil Physics Laboratory" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; margin-top: 0.75rem; font-size: 0.95rem; color: #555; font-style: italic;">
+        Measurement of soil water infiltration rate
+      </figcaption>
+    </figure>
+  </div>
 
-<div style="flex: 1; min-width: 300px;">
-  <figure style="margin: 0;">
-   <img src="/File/soilphysics.jpg" alt="Soil Physics" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-    <figcaption style="text-align: center; margin-top: 0.75rem; font-size: 0.95rem; color: #555; font-style: italic;">
-      Measurement of Soil Water Infiltration Rate
-    </figcaption>
-  </figure>
 </div>
-
 
 
 
