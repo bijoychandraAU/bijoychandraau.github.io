@@ -36,7 +36,7 @@ A practical, field-intensive course providing firsthand experience with monitori
       </blockquote>
     </p>
   </div>
-</div>
+
 
   <div style="flex: 1; min-width: 300px;">
   <figure style="margin: 0;">
@@ -47,6 +47,7 @@ A practical, field-intensive course providing firsthand experience with monitori
   </figure>
 </div>
 
+</div>
 
 
 
