@@ -5,11 +5,11 @@ layout: page
 
 ## Co-Instructor 
 
-**1. Environmental Field Skills (Undergraduate)** - Spring 2024 & 2025
+**2. Environmental Field Skills (Undergraduate)** - Spring 2024 & 2025
 
 *Focus: This practical, field-based laboratory course is designed to provide hands-on experience with environmental monitoring field techniques, including stream discharge measurements, slug tests, aquatic sampling, surveying and wetland delineations utilizing local sites and watersheds as the classroom.*
 
-I co-teach this four-section course (12 contact hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
+I co-teach this four-section course (12 hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
 
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. 
 
@@ -51,7 +51,7 @@ A practical, field-intensive course providing firsthand experience with monitori
 
 
 
-**2. Senior Capstone Design (Undergraduate)** - Spring 2024 & 2025
+**1. Senior Capstone Design (Undergraduate)** - Spring 2024 & 2025
 
 Facilitating multidisciplinary student teams as they tackle real-world environmental issues.  
 * **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
@@ -61,7 +61,7 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 
 ## Teaching Assistant
 
-**3. Soil Physics (Undergraduate/Graduate)** - Fall 2024
+**2. Soil Physics (Undergraduate/Graduate)** - Fall 2024
 
 *Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
 
@@ -107,5 +107,5 @@ Introducing students to the modern data science workflow using the R ecosystem.
 
 I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
 
-* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
+* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright Fellowship to pursue a master's program for international research.
 * **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
