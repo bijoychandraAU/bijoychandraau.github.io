@@ -36,6 +36,7 @@ A practical, field-intensive course providing firsthand experience with monitori
       </blockquote>
     </p>
   </div>
+</div>
 
   <div style="flex: 1; min-width: 300px;">
   <figure style="margin: 0;">
@@ -54,6 +55,8 @@ A practical, field-intensive course providing firsthand experience with monitori
 Facilitating multidisciplinary student teams as they tackle real-world environmental issues.  
 * **Service-Learning:** Connecting students with community partners for projects like stormwater management and urban gardening.
 * **Professional Growth:** Bridging academia with industry through networking and project-based deliverables.
+
+
 
 ## Teaching Assistant
 
@@ -88,10 +91,6 @@ I assisted with laboratory instruction by designing and leading lab sessions, gu
   </div>
 
 </div>
-
-
-
-
 
 
 
