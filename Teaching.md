@@ -39,11 +39,13 @@ A practical, field-intensive course providing firsthand experience with monitori
   </div>
 
   <div style="flex: 1; min-width: 300px;">
+  <figure style="margin: 0;">
     <img src="/File/NRES338.png" alt="Field Skills Students" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  </div>
-
+    <figcaption style="text-align: center; margin-top: 0.75rem; font-size: 0.95rem; color: #555; font-style: italic;">
+      Stream discharge measurement
+    </figcaption>
+  </figure>
 </div>
-
 
 
 
@@ -81,11 +83,16 @@ I assisted with laboratory instruction, including designing and leading lab sess
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    <img src="/File/soilphysics.jpg" alt="Soil Physics" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  </div>
 
+<div style="flex: 1; min-width: 300px;">
+  <figure style="margin: 0;">
+   <img src="/File/soilphysics.jpg" alt="Soil Physics" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <figcaption style="text-align: center; margin-top: 0.75rem; font-size: 0.95rem; color: #555; font-style: italic;">
+      Soil water infiltration
+    </figcaption>
+  </figure>
 </div>
+
 
 
 
