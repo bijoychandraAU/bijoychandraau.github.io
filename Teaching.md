@@ -107,5 +107,5 @@ Introducing students to the modern data science workflow using the R ecosystem.
 
 I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
 
-* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
+* **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright Fellowship to pursue a master's program for international research.
 * **Summer Internships:** Facilitated connections and technical preparation for students securing competitive internships at federal agencies and environmental consultancies.
