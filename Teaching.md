@@ -5,7 +5,6 @@ layout: page
 
 ## Co-Instructor 
 
-
 **1. Environmental Field Skills (Undergraduate)** - Spring 2024 & 2025
 
 *Focus: This practical, field-based laboratory course is designed to provide hands-on experience with environmental monitoring field techniques, including stream discharge measurements, slug tests, aquatic sampling, surveying and wetland delineations utilizing local sites and watersheds as the classroom.*
@@ -96,9 +95,6 @@ I assisted with laboratory instruction by designing and leading lab sessions, gu
 
 
 
-
-
-
 **1. R Programming for Data Science (Graduate)** - Fall 2021
 
 Introducing students to the modern data science workflow using the R ecosystem.
@@ -108,6 +104,7 @@ Introducing students to the modern data science workflow using the R ecosystem.
 
 
 ## Mentoring & Student Success
+
 I take great pride in the professional development of my students. Through personalized guidance and research support, my mentees have achieved significant milestones, including:
 
 * **Fulbright Fellowship:** Provided primary mentorship for a student successfully awarded a Fulbright grant for international research.
