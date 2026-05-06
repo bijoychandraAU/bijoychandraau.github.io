@@ -164,6 +164,7 @@ Full publication list → [Google Scholar](https://scholar.google.com/citations?
     <li>Applied Engineering in Agriculture</li>
     <li>Stochastic Env. Research & Risk Assessment</li>
     <li>Atmosfera</li>
+     <li>Environmental Modelling and Software</li>
   </ul>
 </div>
 
