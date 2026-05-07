@@ -2,7 +2,7 @@
 
 /* Header and footer: use refined dark gray instead of near-black */
 :root {
-  --header-bg: #e21833;
+  --header-bg: #426dc9;
   --footer-bg: #e21833;
   --header-text: #ffffff;
 }
