@@ -3,7 +3,7 @@
 /* Header and footer: use refined dark gray instead of near-black */
 :root {
   --header-bg: #426dc9;
-  --footer-bg: #e21833;
+  --footer-bg: #7f7f7f;
   --header-text: #ffffff;
 }
 
