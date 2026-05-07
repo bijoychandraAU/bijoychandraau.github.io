@@ -2,14 +2,14 @@
 
 /* Header and footer: use refined dark gray instead of near-black */
 :root {
-  --header-bg: #3a404d;
+  --header-bg: #e21833;
   --footer-bg: #3a404d;
   --header-text: #ffffff;
 }
 
 [data-theme="dark"],
 body.dark-theme {
-  --header-bg: #4a5263;
+  --header-bg: #e21833;
   --footer-bg: #4a5263;
   --header-text: #ffffff;
 }
