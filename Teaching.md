@@ -6,9 +6,9 @@ layout: page
 
 **1. Artificial Intelligence: Transforming Food, Agricultural, And Environmental Systems (Undergraduate)** - Fall 2026
 
-Focus: The course serve as a foundation for students who have limited to no experience with AI. The central question of this course – “What are the best applications of various artificial intelligence tools in sustainable food systems, environmental sciences, agricultural economics, and animal health?” <br>
+Focus: The course serves as a foundation for students with limited to no prior experience in AI. The central question explored is: "What are the best applications of various artificial intelligence tools in sustainable food systems, environmental sciences, agricultural economics, and animal health?” <br>
 
-I co-developed and co-teach this undergradute coruse through lectures, Gues semianrs, assingments and project (AI Trade show)
+Role & Delivery: I co-developed and co-teach this undergraduate course through lectures, guest seminars, hands-on assignments, and a term project (AI Trade Show).
 
 
 
@@ -18,7 +18,7 @@ I co-developed and co-teach this undergradute coruse through lectures, Gues semi
 
 *Focus: This practical, field-based laboratory course is designed to provide hands-on experience with environmental monitoring field techniques, including stream discharge measurements, slug tests, aquatic sampling, surveying and wetland delineations utilizing local sites and watersheds as the classroom.*
 
-I co-teach this four-section course (12 hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
+Role & Delivery: I co-teach this four-section course (12 hours per week). My responsibilities include planning and coordinating field activities, designing instructional exercises, leading field and laboratory sessions, and mentoring students in the application of environmental field methods and data collection techniques.
 
 A practical, field-intensive course providing firsthand experience with monitoring methodologies. 
 
@@ -74,7 +74,7 @@ Facilitating multidisciplinary student teams as they tackle real-world environme
 
 *Focus: Fundamentals of transport (water, chemicals, heat, and gases) and field spatial variability.*
 
-I assisted with laboratory instruction by designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
+Role & Delivery: I assisted with laboratory instruction by designing and leading lab sessions, guiding students through experiments, and evaluating laboratory assignments.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
 
