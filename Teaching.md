@@ -6,13 +6,9 @@ layout: page
 
 **1. Artificial Intelligence: Transforming Food, Agricultural, And Environmental Systems (Undergraduate)** - Fall 2026
 
-*Focus: The course serve as a foundation for students who have limited to no experience with AI. The central question of this course – “What are the best applications of various artificial intelligence tools in sustainable food systems, environmental sciences, agricultural economics, and animal health?”.  <br>
-The primary four synergistic themes are:<br>
-**a) Fundamentals of artificial intelligence** - How does AI work? What can it do? What can it not do? What are the different types of AI, and which one works best for what type of applications?<br>
-**b) Ethical, environmental, legal, and social considerations of artificial intelligence** - Is AI biased? How sustainable is AI usage? Is the use of AI legal? What are the social implications of AI?<br>
-**c) Applications of artificial intelligence in the domain of agriculture and natural resources** - How can LLMs be leveraged to improve productivity? How are AI systems beyond LLMs (e.g. protein folding, image detection, and digital twins) being used in AGNR research?<br>
-**d) Future of artificial intelligence in agriculture and natural resources** - Which jobs will AI affect most? What are the implications of AI use for careers in both industry and academia in AGNR? How will future developments in AI (e.g., agentic AI and artificial general or super intelligence) impact AGNR? <p>*
+Focus: The course serve as a foundation for students who have limited to no experience with AI. The central question of this course – “What are the best applications of various artificial intelligence tools in sustainable food systems, environmental sciences, agricultural economics, and animal health?” <br>
 
+I co-developed and co-teach this undergradute coruse through lectures, Gues semianrs, assingments and project (AI Trade show)
 
 
 
