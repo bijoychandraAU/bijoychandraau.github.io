@@ -4,7 +4,7 @@ layout: page
 ---
 ## Instructor 
 
-**1. Artificial Intelligence: Transforming Food, Agricultural, And Environmental Systems** - Fall 2026
+**1. Artificial Intelligence: Transforming Food, Agricultural, And Environmental Systems (Undergraduate)** - Fall 2026
 
 *Focus: The course serve as a foundation for students who have limited to no experience with AI. The central question of this course – “What are the best applications of various artificial intelligence tools in sustainable food systems, environmental sciences, agricultural economics, and animal health?”.  <p>
 The primary four synergistic themes are:<br>
